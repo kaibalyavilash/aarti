@@ -64,8 +64,8 @@ export const homeContent = `
         <svg viewBox="0 0 200 200">
           <defs>
             <linearGradient id="cgradh" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#e0592a"/>
-              <stop offset="100%" stop-color="#2fa98c"/>
+              <stop offset="0%" stop-color="#1f7a4d"/>
+              <stop offset="100%" stop-color="#22c55e"/>
             </linearGradient>
             <path id="loopArcNh" d="M 53,19 A 94,94 0 0 1 147,19"/>
             <path id="loopArcEh" d="M 181,53 A 94,94 0 0 1 181,147"/>
@@ -73,17 +73,17 @@ export const homeContent = `
             <path id="loopArcWh" d="M 19,147 A 94,94 0 0 1 19,53"/>
           </defs>
           <g class="loop-spin">
-            <circle cx="100" cy="100" r="70" fill="none" stroke="#2c313a" stroke-width="1"/>
+            <circle cx="100" cy="100" r="70" fill="none" stroke="#d7e3d5" stroke-width="1"/>
             <circle cx="100" cy="100" r="70" fill="none" stroke="url(#cgradh)" stroke-width="2.5" stroke-dasharray="360 80" stroke-linecap="round" transform="rotate(-90 100 100)"/>
-            <g font-family="JetBrains Mono" font-size="8" fill="#9aa0a8" letter-spacing="1">
+            <g font-family="JetBrains Mono" font-size="8" fill="#5b6b60" letter-spacing="1">
               <text text-anchor="middle"><textPath href="#loopArcNh" startOffset="50%">SCRAP IN</textPath></text>
               <text text-anchor="middle"><textPath href="#loopArcEh" startOffset="50%">EAF MELT</textPath></text>
               <text text-anchor="middle"><textPath href="#loopArcSh" startOffset="50%">ROLLED STEEL</textPath></text>
               <text text-anchor="middle"><textPath href="#loopArcWh" startOffset="50%">END OF LIFE</textPath></text>
             </g>
           </g>
-          <text x="100" y="94" text-anchor="middle" fill="#f3f1ec" font-family="Oswald" font-size="15" font-weight="600">CIRCULAR</text>
-          <text x="100" y="114" text-anchor="middle" fill="#9aa0a8" font-family="JetBrains Mono" font-size="9" letter-spacing="2">STEEL LOOP</text>
+          <text x="100" y="94" text-anchor="middle" fill="#0f1f16" font-family="Oswald" font-size="15" font-weight="600">CIRCULAR</text>
+          <text x="100" y="114" text-anchor="middle" fill="#5b6b60" font-family="JetBrains Mono" font-size="9" letter-spacing="2">STEEL LOOP</text>
         </svg>
       </div>
       <div class="circ-copy reveal">

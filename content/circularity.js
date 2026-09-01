@@ -13,8 +13,8 @@ export const circularityContent = `<section class="page-banner pb-photo" style="
         <svg viewBox="0 0 200 200">
           <defs>
             <linearGradient id="cgrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stop-color="#e0592a"/>
-              <stop offset="100%" stop-color="#2fa98c"/>
+              <stop offset="0%" stop-color="#1f7a4d"/>
+              <stop offset="100%" stop-color="#22c55e"/>
             </linearGradient>
             <path id="loopArcN" d="M 53,19 A 94,94 0 0 1 147,19"/>
             <path id="loopArcE" d="M 181,53 A 94,94 0 0 1 181,147"/>
@@ -22,17 +22,17 @@ export const circularityContent = `<section class="page-banner pb-photo" style="
             <path id="loopArcW" d="M 19,147 A 94,94 0 0 1 19,53"/>
           </defs>
           <g class="loop-spin">
-            <circle cx="100" cy="100" r="70" fill="none" stroke="#2c313a" stroke-width="1"/>
+            <circle cx="100" cy="100" r="70" fill="none" stroke="#d7e3d5" stroke-width="1"/>
             <circle cx="100" cy="100" r="70" fill="none" stroke="url(#cgrad2)" stroke-width="2.5" stroke-dasharray="360 80" stroke-linecap="round" transform="rotate(-90 100 100)"/>
-            <g font-family="JetBrains Mono" font-size="8" fill="#9aa0a8" letter-spacing="1">
+            <g font-family="JetBrains Mono" font-size="8" fill="#5b6b60" letter-spacing="1">
               <text text-anchor="middle"><textPath href="#loopArcN" startOffset="50%">SCRAP IN</textPath></text>
               <text text-anchor="middle"><textPath href="#loopArcE" startOffset="50%">EAF MELT</textPath></text>
               <text text-anchor="middle"><textPath href="#loopArcS" startOffset="50%">ROLLED STEEL</textPath></text>
               <text text-anchor="middle"><textPath href="#loopArcW" startOffset="50%">END OF LIFE</textPath></text>
             </g>
           </g>
-          <text x="100" y="94" text-anchor="middle" fill="#f3f1ec" font-family="Oswald" font-size="15" font-weight="600">CIRCULAR</text>
-          <text x="100" y="114" text-anchor="middle" fill="#9aa0a8" font-family="JetBrains Mono" font-size="9" letter-spacing="2">STEEL LOOP</text>
+          <text x="100" y="94" text-anchor="middle" fill="#0f1f16" font-family="Oswald" font-size="15" font-weight="600">CIRCULAR</text>
+          <text x="100" y="114" text-anchor="middle" fill="#5b6b60" font-family="JetBrains Mono" font-size="9" letter-spacing="2">STEEL LOOP</text>
         </svg>
       </div>
       <div class="circ-copy reveal">
@@ -78,10 +78,10 @@ export const circularityContent = `<section class="page-banner pb-photo" style="
         <p>This is a small but telling example of how sustainability gets built into operations rather than bolted on afterward: every by-product is a question of "what can this become," not "where does this go."</p>
       </div>
       <div class="photo-grid">
-        <div class="ph" data-tag="Fly Ash Recovery"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
-        <div class="ph" data-tag="Power Division"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/></svg></div>
-        <div class="ph" data-tag="Waste Handling"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
-        <div class="ph" data-tag="Repurposed Output"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+        <div class="ph" data-tag="Fly Ash Recovery"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
+        <div class="ph" data-tag="Power Division"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/></svg></div>
+        <div class="ph" data-tag="Waste Handling"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
+        <div class="ph" data-tag="Repurposed Output"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
       </div>
     </div>
   </div>

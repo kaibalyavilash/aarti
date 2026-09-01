@@ -79,10 +79,10 @@ export const INFRASTRUCTURE_PAGES = {
         <p>Stable power is the backbone of consistent steelmaking — it's what lets our EAF operations run predictably, batch after batch, without the swings that undermine quality. Smart-grid monitoring and cleaner energy technologies are under evaluation to reduce emissions further.</p>
       </div>
       <div class="photo-grid">
-        <div class="ph" data-tag="Captive Plant"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M13 2 3 14h8l-2 8 10-12h-8l2-8z"/></svg></div>
-        <div class="ph" data-tag="Grid Backup"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><circle cx="12" cy="12" r="8"/></svg></div>
-        <div class="ph" data-tag="Renewable Roadmap"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M4 20l4-8 4 8 4-8 4 8"/></svg></div>
-        <div class="ph" data-tag="EAF Feed"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+        <div class="ph" data-tag="Captive Plant"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M13 2 3 14h8l-2 8 10-12h-8l2-8z"/></svg></div>
+        <div class="ph" data-tag="Grid Backup"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><circle cx="12" cy="12" r="8"/></svg></div>
+        <div class="ph" data-tag="Renewable Roadmap"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 20l4-8 4 8 4-8 4 8"/></svg></div>
+        <div class="ph" data-tag="EAF Feed"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
       </div>
     </div>
   </div>

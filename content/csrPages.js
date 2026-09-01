@@ -95,10 +95,10 @@ export const CSR_PAGES = {
         <p><a href="/circularity" class="btn btn-ghost" style="margin-top:6px;">See our circular economy loop →</a></p>
       </div>
       <div class="photo-grid">
-        <div class="ph" data-tag="Emissions Tracking"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
-        <div class="ph" data-tag="Water Usage"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M12 2s6 7 6 12a6 6 0 1 1-12 0c0-5 6-12 6-12z"/></svg></div>
-        <div class="ph" data-tag="Fly Ash Recovery"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
-        <div class="ph" data-tag="Roadmap"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+        <div class="ph" data-tag="Emissions Tracking"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
+        <div class="ph" data-tag="Water Usage"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M12 2s6 7 6 12a6 6 0 1 1-12 0c0-5 6-12 6-12z"/></svg></div>
+        <div class="ph" data-tag="Fly Ash Recovery"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
+        <div class="ph" data-tag="Roadmap"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
       </div>
     </div>
   </div>

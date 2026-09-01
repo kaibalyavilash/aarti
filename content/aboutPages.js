@@ -25,10 +25,10 @@ export const ABOUT_PAGES = {
         </div>
       </div>
       <div class="photo-grid">
-        <div class="ph" data-tag="Iron Making"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
-        <div class="ph" data-tag="Rolling Mill"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/></svg></div>
-        <div class="ph" data-tag="EAF Bay"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
-        <div class="ph" data-tag="Testing Lab"><svg viewBox="0 0 24 24" fill="none" stroke="#f3f1ec" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+        <div class="ph" data-tag="Iron Making"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
+        <div class="ph" data-tag="Rolling Mill"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/></svg></div>
+        <div class="ph" data-tag="EAF Bay"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
+        <div class="ph" data-tag="Testing Lab"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
       </div>
     </div>
   </div>
