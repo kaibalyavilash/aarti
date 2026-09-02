@@ -6,6 +6,33 @@ export const contactContent = `<section class="page-banner pb-photo" style="--ba
     <p>Certified low-carbon volumes or standard grades at scale — our team can walk you through what's available.</p>
   </div>
 </section>
+
+<section class="wide-band" style="--banner-img:url('https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=1920&q=70&auto=format&fit=crop')">
+  <div class="wrap">
+    <div class="section-head center reveal">
+      <div class="eyebrow">Where to find us</div>
+      <h2>Our Locations</h2>
+    </div>
+    <div class="locations-grid reveal">
+      <div class="location-card">
+        <h4>Head Office</h4>
+        <address>Aarti Steels Limited<br>Sector 51, Gurugram<br>Haryana – 122003, India</address>
+        <a class="locate-link" href="https://www.google.com/maps/search/?api=1&query=Aarti+Steels+Limited+Sector+51+Gurugram+Haryana" target="_blank" rel="noopener">Locate on map →</a>
+      </div>
+      <div class="location-card">
+        <h4>Cuttack Plant</h4>
+        <address>Ghantikhal, P.O. Mahakalbasta<br>Via Athgarh, Dist. Cuttack<br>Odisha – 754029, India</address>
+        <a class="locate-link" href="https://www.google.com/maps/search/?api=1&query=Aarti+Steels+Limited+Ghantikhal+Athgarh+Cuttack+Odisha" target="_blank" rel="noopener">Locate on map →</a>
+      </div>
+      <div class="location-card">
+        <h4>Reach Us Directly</h4>
+        <address>+91-671-7161000<br>Fax: +91-671-7161150<br>contact@aartisteelsltd.com</address>
+        <a class="locate-link" href="mailto:contact@aartisteelsltd.com">Email us →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section">
   <div class="wrap">
     <div class="contact-grid reveal">

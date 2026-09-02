@@ -7,6 +7,7 @@ import CircularLoop from "./CircularLoop";
 const SLIDES = [
   {
     key: "slide-1",
+    image: "https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=1920&q=70&auto=format&fit=crop",
     eyebrow: "Cuttack, Odisha — Steelmaking since 1979",
     heading: (
       <>
@@ -21,6 +22,7 @@ const SLIDES = [
   },
   {
     key: "slide-2",
+    image: "https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=1920&q=70&auto=format&fit=crop",
     eyebrow: "Circular by design",
     heading: (
       <>
@@ -36,6 +38,7 @@ const SLIDES = [
   },
   {
     key: "slide-3",
+    image: "https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=1920&q=70&auto=format&fit=crop",
     eyebrow: "Vertically integrated",
     heading: (
       <>
@@ -50,6 +53,7 @@ const SLIDES = [
   },
   {
     key: "slide-4",
+    image: "https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=1920&q=70&auto=format&fit=crop",
     eyebrow: "We're hiring",
     heading: (
       <>
@@ -64,6 +68,7 @@ const SLIDES = [
   },
   {
     key: "slide-5",
+    image: "https://images.unsplash.com/photo-1639772823907-a716be4bdecc?w=1920&q=70&auto=format&fit=crop",
     eyebrow: "Trusted since 1979",
     heading: (
       <>
@@ -114,7 +119,10 @@ export default function HeroSlider() {
           key={slide.key}
           className={`slide ${slide.key} ${i === index ? "active" : ""}`}
         >
-          <div className="slide-bg" />
+          <div
+            className="slide-bg"
+            style={{ "--slide-img": `url('${slide.image}')` }}
+          />
           <div className="wrap slide-content">
             <div className={slide.visual ? "slide-split" : ""}>
               <div className="slide-text">

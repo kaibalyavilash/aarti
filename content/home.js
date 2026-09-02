@@ -96,6 +96,18 @@ export const homeContent = `
   </div>
 </section>
 
+<section class="wide-band" style="--banner-img:url('https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=1920&q=70&auto=format&fit=crop')">
+  <div class="wrap wide-band-cta reveal">
+    <div class="eyebrow">Careers at Aarti Steel</div>
+    <h2>Join Us</h2>
+    <p>From project engineering to plant operations — join the team running one of eastern India's most established steel supply chains.</p>
+    <div class="slide-cta">
+      <a href="/careers" class="btn btn-primary">View Open Roles →</a>
+      <a href="/csr/ehs" class="btn btn-ghost">Life at Aarti Steel</a>
+    </div>
+  </div>
+</section>
+
 <div class="ctaband">
   <div class="wrap">
     <h2 class="reveal">Sourcing steel? Let's talk carbon intensity <em style="font-style:normal; color:var(--hydro-2);">and</em> spec sheets.</h2>
