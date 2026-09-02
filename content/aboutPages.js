@@ -103,24 +103,27 @@ export const ABOUT_PAGES = {
     subtitle: "Head office in Gurugram, manufacturing plant in Cuttack, Odisha.",
     image: IMG.locations,
     description: "Aarti Steel's head office and Cuttack, Odisha manufacturing plant locations and contact details.",
-    body: `<section class="section">
+    body: `<section class="wide-band" style="--banner-img:url('https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=1920&q=70&auto=format&fit=crop')">
   <div class="wrap">
-    <div class="cert-grid reveal">
-      <div class="cert-card">
+    <div class="section-head center reveal">
+      <div class="eyebrow">Where to find us</div>
+      <h2>Our Locations</h2>
+    </div>
+    <div class="locations-grid reveal">
+      <div class="location-card">
         <h4>Head Office</h4>
-        <p>Aarti Steels Limited, Sector 51, Gurugram, Haryana – 122003, India.</p>
+        <address>Aarti Steels Limited<br>Sector 51, Gurugram<br>Haryana – 122003, India</address>
+        <a class="locate-link" href="https://www.google.com/maps/search/?api=1&query=Aarti+Steels+Limited+Sector+51+Gurugram+Haryana" target="_blank" rel="noopener">Locate on map →</a>
       </div>
-      <div class="cert-card">
-        <h4>Cuttack, Odisha (Manufacturing Plant)</h4>
-        <p>Ghantikhal, P.O. Mahakalbasta, Via Athgarh, Dist. Cuttack – 754029, Odisha, India.</p>
+      <div class="location-card">
+        <h4>Cuttack Plant</h4>
+        <address>Ghantikhal, P.O. Mahakalbasta<br>Via Athgarh, Dist. Cuttack<br>Odisha – 754029, India</address>
+        <a class="locate-link" href="https://www.google.com/maps/search/?api=1&query=Aarti+Steels+Limited+Ghantikhal+Athgarh+Cuttack+Odisha" target="_blank" rel="noopener">Locate on map →</a>
       </div>
-      <div class="cert-card">
-        <h4>Reach Us</h4>
-        <p>+91-671-7161000 &nbsp;·&nbsp; contact@aartisteelsltd.com</p>
-      </div>
-      <div class="cert-card">
-        <h4>Fax</h4>
-        <p>+91-671-7161150</p>
+      <div class="location-card">
+        <h4>Reach Us Directly</h4>
+        <address>+91-671-7161000<br>Fax: +91-671-7161150<br>contact@aartisteelsltd.com</address>
+        <a class="locate-link" href="mailto:contact@aartisteelsltd.com">Email us →</a>
       </div>
     </div>
   </div>

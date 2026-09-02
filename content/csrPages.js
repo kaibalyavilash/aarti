@@ -2,6 +2,7 @@ const IMG = {
   ehs: "https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=1600&q=70&auto=format&fit=crop",
   community: "https://images.unsplash.com/photo-1567789884554-0b844b597180?w=1600&q=70&auto=format&fit=crop",
   environment: "https://images.unsplash.com/photo-1671362935207-d9abfc5b9509?w=1600&q=70&auto=format&fit=crop",
+  greenSteel: "https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=1600&q=70&auto=format&fit=crop",
 };
 
 export const CSR_PAGES = {
@@ -140,6 +141,111 @@ export const CSR_PAGES = {
 <div class="ctaband">
   <div class="wrap">
     <h2 class="reveal">Sourcing certified low-carbon steel?</h2>
+    <div class="slide-cta reveal">
+      <a href="/contact" class="btn btn-primary">Talk to our team →</a>
+      <a href="/circularity" class="btn btn-ghost">Circular economy loop →</a>
+    </div>
+  </div>
+</div>`,
+  },
+  "green-steel": {
+    title: "Green Steel",
+    subtitle: "A certified, measured route to lower-carbon steel — not a slogan.",
+    image: IMG.greenSteel,
+    description: "Aarti Steel's Clean & Green Steel initiative: GreenPro Ecolabel certified carbon footprint, scrap-first EAF route, and a roadmap to 330 kg CO2eq/MT by 2030.",
+    body: `<section class="section">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Clean &amp; green steel</div>
+      <h2>Lower-Carbon Steel, Certified</h2>
+      <p>Our EAF route runs on recycled scrap rather than virgin ore, cutting embodied carbon at the source — then we have it independently verified rather than just claiming it.</p>
+    </div>
+    <div class="pillrow reveal" style="margin-top:0;">
+      <span class="pill">GreenPro Ecolabel Certified</span>
+      <span class="pill">Scrap-First EAF Route</span>
+      <span class="pill">70% Scrap + 30% DRI Charge Mix</span>
+      <span class="pill">Non-Metallic Inclusion Control</span>
+    </div>
+  </div>
+</section>
+
+<section class="section tight alt-bg">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">The roadmap</div>
+      <h2 style="font-size:28px;">CO2 Intensity — Hot Rolled Product</h2>
+      <p>GreenPro Ecolabel certified carbon footprint, certificate valid to December 2027.</p>
+    </div>
+    <div class="datatable reveal">
+      <table>
+        <thead><tr><th>Milestone</th><th>CO2eq / MT</th></tr></thead>
+        <tbody>
+          <tr><td class="lead">2023 Baseline</td><td>797 kg</td></tr>
+          <tr><td class="lead">Certified Today</td><td>636 kg</td></tr>
+          <tr><td class="lead">2030 Target</td><td>330 kg</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Certified, not claimed</div>
+      <h2 style="font-size:28px;">GreenPro Ecolabel — Per-Grade CO2 Footprint</h2>
+    </div>
+    <div class="datatable reveal">
+      <table>
+        <thead><tr><th>Grade</th><th>Certified CO2eq / MT</th></tr></thead>
+        <tbody>
+          <tr><td class="lead">100Cr6 / 52100 / SUJ2R</td><td>559 kg</td></tr>
+          <tr><td class="lead">C56E2</td><td>467 kg</td></tr>
+          <tr><td class="lead">20MnCr5</td><td>501 kg</td></tr>
+          <tr><td class="lead">100CrMnSi6-4</td><td>605 kg</td></tr>
+          <tr><td class="lead">C45 Modified</td><td>465 kg</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section tight alt-bg">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">How we get there</div>
+      <h2>Our Manufacturing Route</h2>
+      <p>The same integrated route behind every batch — cleaner by design, not by offset.</p>
+    </div>
+    <div class="pillrow reveal" style="margin-top:0;">
+      <span class="pill">Electric Arc Furnace</span>
+      <span class="pill">Ladle Refining Furnace</span>
+      <span class="pill">Vacuum Degassing</span>
+      <span class="pill">Continuous Caster</span>
+      <span class="pill">Rolling Mill</span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Recognised</div>
+      <h2>Green Steel Awards</h2>
+    </div>
+    <div class="cert-grid reveal">
+      <div class="cert-card"><h4>CII GreenPro Ecolabel Award 2025</h4><p>Green Products &amp; Services Council — Automotive and Engineering Steel category.</p></div>
+      <div class="cert-card"><h4>Odisha State Energy Conservation Award 2024</h4><p>Captive/Industrial Power Plant (CPP/IPP) category.</p></div>
+      <div class="cert-card"><h4>Fly Ash Utilisation Award 2025</h4><p>Winner, Excellence in R&amp;D — Mission Energy Foundation.</p></div>
+      <div class="cert-card"><h4>Kalinga Environment Excellence National Award 2024</h4><p>Winner, 4-star rating, presented in Bhubaneswar.</p></div>
+    </div>
+  </div>
+</section>
+
+<div class="ctaband">
+  <div class="wrap">
+    <h2 class="reveal">Sourcing certified low-carbon steel?</h2>
+    <p class="reveal">Ask for volumes certified against our GreenPro Ecolabel footprint.</p>
     <div class="slide-cta reveal">
       <a href="/contact" class="btn btn-primary">Talk to our team →</a>
       <a href="/circularity" class="btn btn-ghost">Circular economy loop →</a>

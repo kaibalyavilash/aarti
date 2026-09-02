@@ -1,5 +1,5 @@
 import RawSection from "@/components/RawSection";
-import JourneyTimeline from "@/components/JourneyTimeline";
+import JourneyScrolly from "@/components/JourneyScrolly";
 import { renderBanner } from "@/lib/banner";
 
 export const metadata = {
@@ -19,7 +19,7 @@ export default function JourneyPage() {
   return (
     <>
       <RawSection html={banner} />
-      <JourneyTimeline />
+      <JourneyScrolly />
     </>
   );
 }

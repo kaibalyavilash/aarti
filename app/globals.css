@@ -26,7 +26,7 @@ img{max-width:100%; display:block;}
 section{position:relative;}
 ::selection{background:var(--hydro); color:var(--ink);}
 
-.reveal{opacity:0; transform:translateY(24px); transition:opacity .7s cubic-bezier(.16,.8,.24,1), transform .7s cubic-bezier(.16,.8,.24,1);}
+.reveal{opacity:0; transform:translateY(28px); transition:opacity 1s cubic-bezier(.19,1,.22,1), transform 1s cubic-bezier(.19,1,.22,1);}
 .reveal.in{opacity:1; transform:translateY(0);}
 
 /* staggered children inside a revealed grid — no markup changes needed,
@@ -51,8 +51,8 @@ section{position:relative;}
 .prod-bento > *:nth-child(10){transition-delay:.57s;}
 
 /* page-level fade on route change */
-.page-fade{animation:pagefade .5s cubic-bezier(.16,.8,.24,1) both;}
-@keyframes pagefade{from{opacity:0; transform:translateY(10px);} to{opacity:1; transform:translateY(0);}}
+.page-fade{animation:pagefade .8s cubic-bezier(.19,1,.22,1) both;}
+@keyframes pagefade{from{opacity:0; transform:translateY(14px);} to{opacity:1; transform:translateY(0);}}
 
 /* count-up stat numbers */
 .num.counting{color:var(--hydro-2);}
@@ -163,7 +163,7 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
 .page-banner-inner{position:relative; z-index:2; padding-bottom:56px;}
 
 /* Full-bleed photo variant of the page banner (godawaripowerispat.com-inspired) */
-.page-banner.pb-photo{min-height:64vh; background:#12151a;}
+.page-banner.pb-photo{height:100svh; min-height:640px; background:#12151a;}
 .page-banner.pb-photo::before{
   content:""; position:absolute; inset:0; z-index:0;
   background-image:var(--banner-img); background-size:cover; background-position:center;
@@ -172,9 +172,6 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
 .page-banner.pb-photo::after{
   content:""; position:absolute; inset:0; z-index:1;
   background:linear-gradient(180deg, rgba(10,12,15,.35) 0%, rgba(10,12,15,.55) 45%, rgba(10,12,15,.92) 100%);
-}
-@media (max-width:720px){
-  .page-banner.pb-photo{min-height:52vh;}
 }
 
 /* ============== HOME HERO SLIDER ==============
@@ -228,10 +225,10 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
 .btn-ghost:hover{border-color:var(--paper); background:rgba(15,31,22,0.06);}
 
 /* Hero slider CTAs sit on dark photo backgrounds — keep them light regardless of site theme */
-.slide-cta .btn-primary{background:var(--hydro); color:#fff;}
-.slide-cta .btn-primary:hover{background:#86efac; color:#0f1f16;}
-.slide-cta .btn-ghost{color:#fff; border-color:rgba(255,255,255,0.4);}
-.slide-cta .btn-ghost:hover{border-color:#fff; background:rgba(255,255,255,0.1); color:#fff;}
+.slide .slide-cta .btn-primary{background:var(--hydro); color:#fff;}
+.slide .slide-cta .btn-primary:hover{background:#86efac; color:#0f1f16;}
+.slide .slide-cta .btn-ghost{color:#fff; border-color:rgba(255,255,255,0.4);}
+.slide .slide-cta .btn-ghost:hover{border-color:#fff; background:rgba(255,255,255,0.1); color:#fff;}
 
 .hero-stats-bar{background:var(--panel); border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
 .hero-stats{display:grid; grid-template-columns:repeat(5,minmax(0,1fr));}
@@ -266,6 +263,11 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
 /* ================ SECTIONS ================ */
 .section{padding:110px 0;}
 .section.tight{padding:80px 0;}
+.security-notice{border-top:1px solid var(--line); background:var(--panel);}
+.security-notice h4{font-size:16px; margin-bottom:16px;}
+.security-notice p{color:var(--paper-dim); font-size:13.5px; line-height:1.7; max-width:900px; margin-bottom:12px;}
+.security-notice ul{margin:12px 0 12px 20px; color:var(--paper-dim); font-size:13.5px; line-height:1.8;}
+.security-notice a{color:var(--hydro-2); text-decoration:underline;}
 .section-head{max-width:680px; margin-bottom:56px;}
 .section-head .eyebrow{font-family:'JetBrains Mono'; font-size:12px; letter-spacing:0.22em; text-transform:uppercase; font-weight:500; color:var(--ember-2); display:flex; gap:12px; align-items:center; margin-bottom:18px;}
 .section-head .eyebrow::before{content:""; width:34px; height:1px; background:currentColor; display:inline-block;}
@@ -444,6 +446,77 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
 @media (max-width:900px){
   .locations-grid{grid-template-columns:1fr;}
   .wide-band{padding:76px 0;}
+}
+
+/* ============== JOIN US GRID (adani.com-inspired) ==============
+   Heading + "Know More" CTA, then a row of full-bleed photo tiles that
+   expand slightly on hover. Swap a tile's photo via its <img src>. */
+.join-head{display:flex; justify-content:space-between; align-items:flex-end; gap:24px; margin-bottom:36px; flex-wrap:wrap;}
+.join-head-text h2{font-size:clamp(28px,4vw,44px);}
+.join-head-text p{color:var(--paper-dim); margin-top:14px; max-width:560px; font-size:15px;}
+.join-grid{display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:16px;}
+.join-tile{
+  position:relative; border-radius:6px; overflow:hidden; aspect-ratio:3/4;
+  transition:transform .5s cubic-bezier(.16,.8,.24,1), box-shadow .5s cubic-bezier(.16,.8,.24,1);
+  display:block;
+}
+.join-tile:hover{transform:scale(1.045); box-shadow:0 24px 48px rgba(0,0,0,0.3); z-index:2;}
+.join-tile img{position:absolute; inset:0; width:100%; height:100%; object-fit:cover;}
+.join-tile::after{content:""; position:absolute; inset:0; background:linear-gradient(180deg, rgba(15,20,15,0.05) 0%, rgba(15,20,15,0.35) 60%, rgba(15,20,15,0.8) 100%);}
+.join-tile-label{
+  position:absolute; left:20px; right:16px; bottom:18px; z-index:2; color:#fff;
+  font-family:'Oswald',sans-serif; font-size:17px; font-weight:600; text-transform:uppercase; letter-spacing:.01em;
+  display:flex; align-items:center; gap:8px; transition:gap .3s ease;
+}
+.join-tile:hover .join-tile-label{gap:12px;}
+@media (max-width:980px){
+  .join-grid{grid-template-columns:repeat(2,minmax(0,1fr));}
+}
+@media (max-width:560px){
+  .join-grid{grid-template-columns:1fr;}
+  .join-tile{aspect-ratio:16/10;}
+}
+
+/* journey scrollytelling (about/journey page — adani.com/about-us/our-journey-inspired) */
+.journey-scrolly{display:grid; grid-template-columns:260px 1fr; align-items:start;}
+.js-sidebar{
+  position:sticky; top:88px; align-self:start; height:calc(100svh - 88px);
+  display:flex; flex-direction:column; border-right:1px solid var(--line); overflow:hidden;
+}
+.js-side-item{
+  text-align:left; padding:22px 26px; border-bottom:1px solid var(--line); background:transparent;
+  cursor:pointer; border-left:3px solid transparent; flex:1; display:flex; flex-direction:column; justify-content:center;
+  transition:background .5s cubic-bezier(.19,1,.22,1), border-color .5s ease, padding .5s ease;
+}
+.js-side-badge{display:block; font-family:'Oswald',sans-serif; font-size:19px; font-weight:600; color:var(--paper); transition:color .5s ease;}
+.js-side-phase{display:block; font-size:12.5px; color:var(--ash); margin-top:3px; transition:color .5s ease;}
+.js-side-item.active{background:var(--grad); border-left-color:var(--hydro); padding-left:30px;}
+.js-side-item.active .js-side-badge, .js-side-item.active .js-side-phase{color:#fff;}
+
+.js-panel{
+  min-height:82vh; display:flex; align-items:center; gap:64px; padding:70px 60px; border-bottom:1px solid var(--line);
+}
+.js-panel-text{flex:1; min-width:0;}
+.js-panel-badge{font-family:'JetBrains Mono'; font-size:12px; letter-spacing:.18em; text-transform:uppercase; color:var(--hydro-2);}
+.js-panel-text h2{font-size:clamp(26px,3.2vw,40px); margin:14px 0 20px; max-width:520px;}
+.js-panel-text p{color:var(--paper-dim); font-size:16px; line-height:1.7; max-width:520px;}
+.js-panel-photo{flex:1; max-width:460px; min-width:0;}
+.js-panel-photo img{width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:8px; display:block;}
+
+@media (max-width:900px){
+  .journey-scrolly{display:block;}
+  .js-sidebar{
+    position:sticky; top:88px; height:auto; flex-direction:row; overflow-x:auto; z-index:5;
+    background:var(--ink); border-right:none; border-bottom:1px solid var(--line); scrollbar-width:none;
+  }
+  .js-sidebar::-webkit-scrollbar{display:none;}
+  .js-side-item{flex:0 0 auto; padding:14px 18px; border-bottom:none; border-left:none; border-right:1px solid var(--line);}
+  .js-side-item.active{padding-left:18px;}
+  .js-panel{flex-direction:column; padding:48px 24px; gap:32px; text-align:left;}
+  .js-panel-photo{max-width:100%; width:100%;}
+}
+@media (prefers-reduced-motion: reduce){
+  .js-side-item{transition:none;}
 }
 
 /* journey timeline (about page) */

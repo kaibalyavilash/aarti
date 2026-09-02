@@ -27,8 +27,14 @@ export const csrContent = `<section class="page-banner pb-photo" style="--banner
         <p>Certified CO2 intensity, GreenPro Ecolabel and national environmental awards.</p>
         <span class="go">Learn more →</span>
       </a>
+      <a class="teaser-card" href="/csr/green-steel">
+        <span class="tag">04 / Roadmap</span>
+        <h3>Green Steel</h3>
+        <p>Our certified route to 330 kg CO2eq/MT by 2030 — GreenPro Ecolabel verified.</p>
+        <span class="go">Learn more →</span>
+      </a>
       <a class="teaser-card" href="/circularity">
-        <span class="tag">04 / Loop</span>
+        <span class="tag">05 / Loop</span>
         <h3>Circularity</h3>
         <p>Scrap in, steel out — how our EAF route closes the loop on iron and steel.</p>
         <span class="go">Learn more →</span>

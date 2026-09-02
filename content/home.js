@@ -96,14 +96,32 @@ export const homeContent = `
   </div>
 </section>
 
-<section class="wide-band" style="--banner-img:url('https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=1920&q=70&auto=format&fit=crop')">
-  <div class="wrap wide-band-cta reveal">
-    <div class="eyebrow">Careers at Aarti Steel</div>
-    <h2>Join Us</h2>
-    <p>From project engineering to plant operations — join the team running one of eastern India's most established steel supply chains.</p>
-    <div class="slide-cta">
-      <a href="/careers" class="btn btn-primary">View Open Roles →</a>
-      <a href="/csr/ehs" class="btn btn-ghost">Life at Aarti Steel</a>
+<section class="section">
+  <div class="wrap">
+    <div class="join-head reveal">
+      <div class="join-head-text">
+        <h2>Join Us</h2>
+        <p>From project engineering to plant operations — join the team running one of eastern India's most established steel supply chains.</p>
+      </div>
+      <a href="/careers" class="btn btn-ghost">Know More</a>
+    </div>
+    <div class="join-grid reveal">
+      <a class="join-tile" href="/careers">
+        <img src="https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=800&q=70&auto=format&fit=crop" alt="Open roles at Aarti Steel" loading="lazy">
+        <span class="join-tile-label">Job Opportunities →</span>
+      </a>
+      <a class="join-tile" href="/about/values">
+        <img src="https://images.unsplash.com/photo-1647586028042-1de4d4a935e6?w=800&q=70&auto=format&fit=crop" alt="Our values" loading="lazy">
+        <span class="join-tile-label">Our Values</span>
+      </a>
+      <a class="join-tile" href="/csr/ehs">
+        <img src="https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=800&q=70&auto=format&fit=crop" alt="Life at Aarti Steel" loading="lazy">
+        <span class="join-tile-label">Life at Aarti Steel</span>
+      </a>
+      <a class="join-tile" href="/about/who-we-are">
+        <img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=800&q=70&auto=format&fit=crop" alt="Who we are" loading="lazy">
+        <span class="join-tile-label">Who We Are</span>
+      </a>
     </div>
   </div>
 </section>
@@ -118,4 +136,20 @@ export const homeContent = `
     </div>
   </div>
 </div>
+
+<section class="section tight security-notice reveal">
+  <div class="wrap">
+    <h4>Security Alert — Beware of Fraudulent Communications</h4>
+    <p>It has come to our attention that certain unauthorised individuals and entities are falsely claiming to represent Aarti Steel and attempting to solicit money from members of the public under the pretext of vendor registration, recruitment, job offers, interviews, training programmes or other business opportunities.</p>
+    <p>Aarti Steel does not charge any fees or request any payment for:</p>
+    <ul>
+      <li>Vendor or supplier registration or onboarding</li>
+      <li>Job applications, recruitment processes or employment offers</li>
+      <li>Interviews, training programmes or onboarding formalities</li>
+      <li>Any request for money in connection with the above should be treated as fraudulent</li>
+    </ul>
+    <p>We strongly advise individuals and businesses to exercise caution and verify all communications exclusively through our official channels: <a href="mailto:contact@aartisteelsltd.com">contact@aartisteelsltd.com</a> or +91-671-7161000.</p>
+    <p>Aarti Steel disclaims any liability for loss, damage, financial harm, data compromise or claims arising from dealings with unauthorised persons or fraudulent communications.</p>
+  </div>
+</section>
 `;
