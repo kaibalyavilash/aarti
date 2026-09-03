@@ -92,10 +92,10 @@ export const careersContent = `<section class="page-banner pb-photo" style="--ba
         </div>
       </div>
       <div class="photo-grid">
-        <div class="ph" data-tag="Careers Email"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 4h16v16H4z"/><path d="M4 6l8 7 8-7"/></svg></div>
-        <div class="ph" data-tag="Phone"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><circle cx="12" cy="12" r="8"/></svg></div>
-        <div class="ph" data-tag="Work Address"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M12 2s6 7 6 12a6 6 0 1 1-12 0c0-5 6-12 6-12z"/></svg></div>
-        <div class="ph" data-tag="Rolling Review"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+        <div class="ph has-photo" data-tag="Careers Email"><img src="https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=700&q=70&auto=format&fit=crop" alt="Careers email" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Phone"><img src="https://images.unsplash.com/photo-1647586028042-1de4d4a935e6?w=700&q=70&auto=format&fit=crop" alt="Phone" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Work Address"><img src="https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=700&q=70&auto=format&fit=crop" alt="Work address" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Rolling Review"><img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=700&q=70&auto=format&fit=crop" alt="Rolling review" loading="lazy"></div>
       </div>
     </div>
   </div>
