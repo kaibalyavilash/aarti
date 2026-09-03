@@ -11,17 +11,22 @@ const IMG = {
   generic: "https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=1600&q=70&auto=format&fit=crop",
 };
 
-function body(title, items, note) {
+function body(title, items, note, image) {
   return `<section class="section">
   <div class="wrap">
-    <div class="section-head reveal">
-      <div class="eyebrow">Where our steel goes</div>
-      <h2>${title} Components</h2>
+    <div class="about-grid reveal">
+      <div class="about-copy">
+        <div class="eyebrow" style="color:var(--ember-2); font-family:'JetBrains Mono'; font-size:12px; letter-spacing:.22em; text-transform:uppercase; display:flex; gap:12px; align-items:center; margin-bottom:18px;"><span style="width:34px;height:1px;background:currentColor;display:inline-block;"></span>Where our steel goes</div>
+        <h2 style="margin-bottom:20px;">${title} Components</h2>
+        <div class="pillrow" style="margin-top:0;">
+          ${items.map((i) => `<span class="pill">${i}</span>`).join("")}
+        </div>
+        ${note ? `<p style="margin-top:24px;max-width:680px;color:var(--paper-dim);">${note}</p>` : ""}
+      </div>
+      <div class="photo-grid flat" style="grid-template-columns:1fr;">
+        <div class="ph has-photo" style="aspect-ratio:4/3;"><img src="${image}" alt="${title} components in use" loading="lazy"></div>
+      </div>
     </div>
-    <div class="pillrow reveal" style="margin-top:0;">
-      ${items.map((i) => `<span class="pill">${i}</span>`).join("")}
-    </div>
-    ${note ? `<p class="reveal" style="margin-top:28px;max-width:680px;color:var(--paper-dim);">${note}</p>` : ""}
   </div>
 </section>
 <div class="ctaband">
@@ -44,7 +49,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Auto",
       ["Steering Worm", "RA Shaft", "Steering Shaft", "Cam Shaft", "Bevel Gear", "RAS Gear", "Steering Nut", "Transmission Gear", "Crown Wheel", "FA Beam", "Stub Axle", "Crankshaft", "Connecting Rod", "Engine Valve", "Stabilizer Bar"],
-      "Case carburizing and chrome-molly grades are the usual fit for high-load steering and drivetrain parts; consult our <a href=\"/products/grades\">grade range</a> for the specific chemistry."
+      "Case carburizing and chrome-molly grades are the usual fit for high-load steering and drivetrain parts; consult our <a href=\"/products/grades\">grade range</a> for the specific chemistry.",
+      IMG.auto
     ),
   },
   gear: {
@@ -55,7 +61,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Gear & Transmission",
       ["Transmission Gears & Shafts", "Engine Gears", "Clutch Components", "Differential & Axle Gears", "Synchro Hubs & Gears", "Crown Gear", "Worm Gear", "Spur Gear", "Helical Gear", "Bevel Gear", "Rack & Pinion", "Ring Gears"],
-      null
+      null,
+      IMG.gear
     ),
   },
   bearing: {
@@ -66,7 +73,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Bearing",
       ["Inner Ring", "Outer Ring", "Balls", "Rollers", "Ball Bearings", "Taper Bearings", "Roller Bearings", "Thrust Ball Bearings"],
-      "Produced against SAE 52100 / 100Cr6-family bearing steel chemistry — full detail on our <a href=\"/products/grades\">grade range</a> page."
+      "Produced against SAE 52100 / 100Cr6-family bearing steel chemistry — full detail on our <a href=\"/products/grades\">grade range</a> page.",
+      IMG.bearing
     ),
   },
   defence: {
@@ -77,7 +85,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Defence",
       ["Battle Tank Components", "Bomb Shell", "Gun Barrel", "Small Arms Barrel", "Cartridge Cases", "Armoured Vehicle Components"],
-      null
+      null,
+      IMG.defence
     ),
   },
   "oil-gas": {
@@ -88,7 +97,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Oil & Gas",
       ["Shafts", "Casing", "Open Forge", "Valve Bodies", "Interconnecting Blocks", "Drill Shanks"],
-      null
+      null,
+      IMG.oilGas
     ),
   },
   power: {
@@ -99,7 +109,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Power",
       ["Drive Shafts", "Rotor Shaft", "Rotor Disc", "Rings", "Flanges", "Turbine Blade"],
-      null
+      null,
+      IMG.power
     ),
   },
   heavy: {
@@ -110,7 +121,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Heavy Engineering",
       ["Sugar Industry", "Textile Industry", "Cement Industry", "Mining Industry", "Construction Industry", "Marine Industry"],
-      null
+      null,
+      IMG.heavy
     ),
   },
   offroad: {
@@ -121,7 +133,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Off-Road",
       ["Linkage Pin", "Track Shoe", "Track Roller", "Idler Shaft", "Nitride / Carburized Parts"],
-      null
+      null,
+      IMG.offroad
     ),
   },
   railways: {
@@ -132,7 +145,8 @@ export const APPLICATION_PAGES = {
     body: body(
       "Railways",
       ["Axle Shaft", "Camshaft", "Helical Spring", "Elastic Rail Clip (ERC)"],
-      null
+      null,
+      IMG.railways
     ),
   },
 };

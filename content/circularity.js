@@ -78,10 +78,10 @@ export const circularityContent = `<section class="page-banner pb-photo" style="
         <p>This is a small but telling example of how sustainability gets built into operations rather than bolted on afterward: every by-product is a question of "what can this become," not "where does this go."</p>
       </div>
       <div class="photo-grid">
-        <div class="ph" data-tag="Fly Ash Recovery"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
-        <div class="ph" data-tag="Power Division"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/></svg></div>
-        <div class="ph" data-tag="Waste Handling"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
-        <div class="ph" data-tag="Repurposed Output"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+        <div class="ph has-photo" data-tag="Fly Ash Recovery"><img src="https://images.unsplash.com/photo-1527105763016-1b36a9d21bfa?w=700&q=70&auto=format&fit=crop" alt="Fly ash recovery" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Power Division"><img src="https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=700&q=70&auto=format&fit=crop" alt="Power division" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Waste Handling"><img src="https://images.unsplash.com/photo-1671362935207-d9abfc5b9509?w=700&q=70&auto=format&fit=crop" alt="Waste handling" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Repurposed Output"><img src="https://images.unsplash.com/photo-1763771420303-0f11ccf613d1?w=700&q=70&auto=format&fit=crop" alt="Repurposed output" loading="lazy"></div>
       </div>
     </div>
   </div>
