@@ -22,8 +22,8 @@ function body({ tag, eyebrow, points, footNote }) {
         ${footNote}
       </div>
       <div class="photo-grid">
-        <div class="ph" data-tag="Cuttack Plant"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
-        <div class="ph" data-tag="Tested In-House"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+        <div class="ph has-photo" data-tag="Cuttack Plant"><img src="https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=700&q=70&auto=format&fit=crop" alt="Cuttack plant" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Tested In-House"><img src="https://images.unsplash.com/photo-1639772823907-a716be4bdecc?w=700&q=70&auto=format&fit=crop" alt="Tested in-house" loading="lazy"></div>
       </div>
     </div>
   </div>

@@ -25,10 +25,10 @@ export const ABOUT_PAGES = {
         </div>
       </div>
       <div class="photo-grid">
-        <div class="ph" data-tag="Iron Making"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
-        <div class="ph" data-tag="Rolling Mill"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/></svg></div>
-        <div class="ph" data-tag="EAF Bay"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
-        <div class="ph" data-tag="Testing Lab"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+        <div class="ph has-photo" data-tag="Iron Making"><img src="https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=700&q=70&auto=format&fit=crop" alt="Iron making" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Rolling Mill"><img src="https://images.unsplash.com/photo-1763771420303-0f11ccf613d1?w=700&q=70&auto=format&fit=crop" alt="Rolling mill" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="EAF Bay"><img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=700&q=70&auto=format&fit=crop" alt="EAF bay" loading="lazy"></div>
+        <div class="ph has-photo" data-tag="Testing Lab"><img src="https://images.unsplash.com/photo-1639772823907-a716be4bdecc?w=700&q=70&auto=format&fit=crop" alt="Testing lab" loading="lazy"></div>
       </div>
     </div>
   </div>

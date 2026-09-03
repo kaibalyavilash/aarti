@@ -7,6 +7,27 @@ export const clientsContent = `<section class="page-banner pb-photo" style="--ba
   </div>
 </section>
 
+<section class="section tight">
+  <div class="wrap">
+    <div class="section-head center reveal">
+      <div class="eyebrow">Trusted by</div>
+      <h2 style="font-size:28px;">A Sample of Who We Supply</h2>
+    </div>
+    <div class="logo-strip reveal">
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Porsche_Wordmark_Logo_Black.svg" alt="Porsche" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Audi_logo.svg" alt="Audi" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" alt="Bosch" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Caterpillar_logo.svg" alt="Caterpillar" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Daimler_Truck_Logo.svg" alt="Daimler Truck" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Royal_Enfield_logo_new.svg" alt="Royal Enfield" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Timken.svg" alt="Timken" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Cummins_logo.svg" alt="Cummins" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Mahindra_logo.svg" alt="Mahindra" loading="lazy"></div>
+      <div class="logo-tile"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bajaj_Auto_Ltd_logo.svg" alt="Bajaj" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
 <section class="section">
   <div class="wrap">
     <div class="section-head hydro reveal">

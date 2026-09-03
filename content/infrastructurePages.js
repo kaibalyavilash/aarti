@@ -138,6 +138,12 @@ export const INFRASTRUCTURE_PAGES = {
       <h2>Testing Facilities</h2>
       <p>Every batch that leaves our plant is verified in-house before it ships.</p>
     </div>
+    <div class="photo-grid flat reveal" style="grid-template-columns:repeat(4,minmax(0,1fr)); margin-bottom:40px;">
+      <div class="ph has-photo" data-tag="Spectrometry"><img src="https://images.unsplash.com/photo-1639772823907-a716be4bdecc?w=700&q=70&auto=format&fit=crop" alt="Spectrometry lab" loading="lazy"></div>
+      <div class="ph has-photo" data-tag="Hardness Testing"><img src="https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=700&q=70&auto=format&fit=crop" alt="Hardness testing" loading="lazy"></div>
+      <div class="ph has-photo" data-tag="Metallurgical Microscopy"><img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=700&q=70&auto=format&fit=crop" alt="Metallurgical microscopy" loading="lazy"></div>
+      <div class="ph has-photo" data-tag="Certified Reports"><img src="https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=700&q=70&auto=format&fit=crop" alt="Certified test reports" loading="lazy"></div>
+    </div>
     <div class="cert-grid reveal">
       <div class="cert-card"><h4>Spectrometer</h4><p>Spectrolab, Germany — Models LAB M-9 &amp; M-12, for precise chemical composition analysis.</p></div>
       <div class="cert-card"><h4>Oxygen, Nitrogen &amp; Hydrogen Analyzer</h4><p>LECO Corporation, USA — Model TCH 600.</p></div>

@@ -1,8 +1,14 @@
 const IMG = {
   auto: "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e?w=1600&q=70&auto=format&fit=crop",
+  gear: "https://images.unsplash.com/photo-1524514587686-e2909d726e9b?w=1600&q=70&auto=format&fit=crop",
   bearing: "https://images.unsplash.com/photo-1776463156345-b1a3e00ef289?w=1600&q=70&auto=format&fit=crop",
-  generic: "https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=1600&q=70&auto=format&fit=crop",
+  defence: "https://images.unsplash.com/photo-1695120972968-21ffead317fb?w=1600&q=70&auto=format&fit=crop",
+  oilGas: "https://images.unsplash.com/photo-1784915474323-6b84bb2ed040?w=1600&q=70&auto=format&fit=crop",
   power: "https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=1600&q=70&auto=format&fit=crop",
+  heavy: "https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?w=1600&q=70&auto=format&fit=crop",
+  offroad: "https://images.unsplash.com/photo-1523848309072-c199db53f137?w=1600&q=70&auto=format&fit=crop",
+  railways: "https://images.unsplash.com/photo-1610611342266-bcc131ecc78c?w=1600&q=70&auto=format&fit=crop",
+  generic: "https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=1600&q=70&auto=format&fit=crop",
 };
 
 function body(title, items, note) {
@@ -44,7 +50,7 @@ export const APPLICATION_PAGES = {
   gear: {
     title: "Gear & Transmission",
     subtitle: "Case-hardening and alloy grades for gears, shafts and clutch components under continuous load.",
-    image: IMG.generic,
+    image: IMG.gear,
     description: "Gear and transmission steel grades from Aarti Steel.",
     body: body(
       "Gear & Transmission",
@@ -66,7 +72,7 @@ export const APPLICATION_PAGES = {
   defence: {
     title: "Defence",
     subtitle: "High-toughness alloy steel for armoured and ordnance components where failure isn't an option.",
-    image: IMG.generic,
+    image: IMG.defence,
     description: "Defence-grade steel components from Aarti Steel.",
     body: body(
       "Defence",
@@ -77,7 +83,7 @@ export const APPLICATION_PAGES = {
   "oil-gas": {
     title: "Oil & Gas",
     subtitle: "Forged and rolled steel for shafts, casing and valve components in upstream and downstream operations.",
-    image: IMG.generic,
+    image: IMG.oilGas,
     description: "Oil and gas industry steel components from Aarti Steel.",
     body: body(
       "Oil & Gas",
@@ -99,7 +105,7 @@ export const APPLICATION_PAGES = {
   heavy: {
     title: "Heavy Engineering",
     subtitle: "Components for sugar, textile, cement, mining, construction and marine industries.",
-    image: IMG.generic,
+    image: IMG.heavy,
     description: "Heavy engineering steel components from Aarti Steel.",
     body: body(
       "Heavy Engineering",
@@ -110,7 +116,7 @@ export const APPLICATION_PAGES = {
   offroad: {
     title: "Off-Road Vehicles",
     subtitle: "Undercarriage steel for track and linkage components under continuous abrasive load.",
-    image: IMG.generic,
+    image: IMG.offroad,
     description: "Off-road and construction vehicle steel components from Aarti Steel.",
     body: body(
       "Off-Road",
@@ -121,7 +127,7 @@ export const APPLICATION_PAGES = {
   railways: {
     title: "Railways",
     subtitle: "Axle and suspension-grade steel for rolling stock and track fittings.",
-    image: IMG.generic,
+    image: IMG.railways,
     description: "Railway industry steel components from Aarti Steel.",
     body: body(
       "Railways",

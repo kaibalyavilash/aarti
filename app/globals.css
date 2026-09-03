@@ -31,12 +31,15 @@ section{position:relative;}
 
 /* staggered children inside a revealed grid — no markup changes needed,
    these selectors just ride the parent's .reveal.in state */
-.teaser-grid > *, .cert-grid > *, .prod-bento > *, .app-grid > *, .why-grid > *, .process > *, .job-list > *{
+.teaser-grid > *, .cert-grid > *, .prod-bento > *, .app-grid > *, .why-grid > *, .process > *, .job-list > *,
+.app-photo-grid > *, .join-grid > *, .photo-grid > *, .locations-grid > *{
   opacity:0; transform:translateY(18px) scale(.98);
   transition:opacity .55s cubic-bezier(.16,.8,.24,1), transform .55s cubic-bezier(.16,.8,.24,1);
 }
 .teaser-grid.in > *, .cert-grid.in > *, .prod-bento.in > *, .app-grid.in > *, .why-grid.in > *, .process.in > *, .job-list.in > *,
-.in .teaser-grid > *, .in .cert-grid > *, .in .prod-bento > *, .in .app-grid > *, .in .why-grid > *, .in .process > *, .in .job-list > *{
+.app-photo-grid.in > *, .join-grid.in > *, .photo-grid.in > *, .locations-grid.in > *,
+.in .teaser-grid > *, .in .cert-grid > *, .in .prod-bento > *, .in .app-grid > *, .in .why-grid > *, .in .process > *, .in .job-list > *,
+.in .app-photo-grid > *, .in .join-grid > *, .in .photo-grid > *, .in .locations-grid > *{
   opacity:1; transform:translateY(0) scale(1);
 }
 .teaser-grid > *:nth-child(1),.cert-grid > *:nth-child(1),.prod-bento > *:nth-child(1),.app-grid > *:nth-child(1),.why-grid > *:nth-child(1),.process > *:nth-child(1),.job-list > *:nth-child(1){transition-delay:.03s;}
@@ -59,7 +62,8 @@ section{position:relative;}
 
 @media (prefers-reduced-motion: reduce){
   .reveal{opacity:1; transform:none; transition:none;}
-  .teaser-grid > *, .cert-grid > *, .prod-bento > *, .app-grid > *, .why-grid > *, .process > *, .job-list > *{opacity:1; transform:none; transition:none;}
+  .teaser-grid > *, .cert-grid > *, .prod-bento > *, .app-grid > *, .why-grid > *, .process > *, .job-list > *,
+  .app-photo-grid > *, .join-grid > *, .photo-grid > *, .locations-grid > *{opacity:1; transform:none; transition:none;}
   .page-fade{animation:none;}
   html{scroll-behavior:auto;}
 }
@@ -300,8 +304,19 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
 .photo-grid .ph{background:var(--panel-2); border:1px solid var(--line); aspect-ratio:1/1; border-radius:3px; display:flex; align-items:center; justify-content:center; overflow:hidden; position:relative;}
 .photo-grid .ph:nth-child(2){margin-top:34px;}
 .photo-grid .ph:nth-child(3){margin-top:-34px;}
-.photo-grid .ph::after{content:attr(data-tag); position:absolute; bottom:10px; left:12px; font-family:'JetBrains Mono'; font-size:10px; letter-spacing:.1em; text-transform:uppercase; color:var(--hydro-2);}
+.photo-grid.flat .ph:nth-child(2), .photo-grid.flat .ph:nth-child(3){margin-top:0;}
+.photo-grid .ph::after{content:attr(data-tag); position:absolute; bottom:10px; left:12px; z-index:2; font-family:'JetBrains Mono'; font-size:10px; letter-spacing:.1em; text-transform:uppercase; color:var(--hydro-2);}
 .photo-grid .ph svg{width:38%; opacity:0.35;}
+.photo-grid .ph.has-photo img{
+  position:absolute; inset:0; width:100%; height:100%; object-fit:cover;
+  transition:transform .6s cubic-bezier(.16,.8,.24,1);
+}
+.photo-grid .ph.has-photo:hover img{transform:scale(1.08);}
+.photo-grid .ph.has-photo::before{
+  content:""; position:absolute; inset:0; z-index:1;
+  background:linear-gradient(180deg, rgba(15,31,22,0.05) 0%, rgba(15,31,22,0.65) 100%);
+}
+.photo-grid .ph.has-photo::after{color:#fff;}
 .pillrow{display:flex; flex-wrap:wrap; gap:10px; margin-top:28px;}
 .pill{border:1px solid var(--line-strong); padding:8px 16px; border-radius:20px; font-size:12px; letter-spacing:.04em; color:var(--paper-dim);}
 
@@ -383,6 +398,11 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
   .prod-tile.pt-large, .prod-tile.pt-wide{grid-column:span 1;}
 }
 
+/* photo-tile variant of the applications grid, reusing .prod-tile/.pt-content styling */
+.app-photo-grid{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); grid-auto-rows:230px; gap:14px;}
+@media (max-width:900px){ .app-photo-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr);} }
+@media (max-width:560px){ .app-photo-grid{grid-template-columns:1fr; grid-auto-rows:200px;} }
+
 .app-grid{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px;}
 .app-card{border:1px solid var(--line); border-radius:3px; padding:24px 22px; background:var(--panel); scroll-margin-top:100px; transition:border-color .25s ease, background .25s ease, transform .25s ease;}
 .app-card:target, .app-card:hover{border-color:var(--hydro); background:var(--panel-2); transform:translateY(-3px);}
@@ -446,6 +466,20 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
 @media (max-width:900px){
   .locations-grid{grid-template-columns:1fr;}
   .wide-band{padding:76px 0;}
+}
+
+/* trusted-by client logo strip */
+.logo-strip{display:flex; flex-wrap:wrap; align-items:center; gap:0; border:1px solid var(--line); border-radius:6px; overflow:hidden; background:var(--panel);}
+.logo-tile{
+  flex:1 1 160px; display:flex; align-items:center; justify-content:center; padding:26px 22px; min-height:110px;
+  border-right:1px solid var(--line); border-bottom:1px solid var(--line);
+  transition:background .3s ease, transform .3s ease;
+}
+.logo-tile img{max-width:100%; max-height:44px; width:auto; object-fit:contain; filter:grayscale(1) opacity(0.65); transition:filter .35s ease, transform .35s ease;}
+.logo-tile:hover{background:var(--panel-2); transform:translateY(-2px);}
+.logo-tile:hover img{filter:grayscale(0) opacity(1); transform:scale(1.06);}
+@media (max-width:700px){
+  .logo-tile{flex:1 1 45%;}
 }
 
 /* ============== JOIN US GRID (adani.com-inspired) ==============
