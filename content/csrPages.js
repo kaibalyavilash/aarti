@@ -138,6 +138,20 @@ export const CSR_PAGES = {
     </div>
   </div>
 </section>
+<section class="section tight alt-bg">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Regulatory transparency</div>
+      <h2 style="font-size:28px;">Environmental Clearance Compliance</h2>
+      <p>We operate under two Environmental Clearances (EC) and file half-yearly compliance reports with the regulatory authorities as a matter of standard practice — publicly available, not just filed and forgotten.</p>
+    </div>
+    <div class="cert-grid reveal">
+      <div class="cert-card"><h4>EC 2005</h4><p>Half-yearly compliance reports filed continuously, including Oct 2023–Mar 2024, Apr–Sep 2024 and Oct 2024–Mar 2025.</p></div>
+      <div class="cert-card"><h4>EC 2009</h4><p>Half-yearly compliance reports filed continuously, including Apr–Sep 2025 and Oct 2025–Mar 2026.</p></div>
+      <div class="cert-card"><h4>Public Disclosure</h4><p>Compliance reports for both clearances are published for review, alongside our ISO 14001:2015 environmental management certification.</p></div>
+    </div>
+  </div>
+</section>
 <div class="ctaband">
   <div class="wrap">
     <h2 class="reveal">Sourcing certified low-carbon steel?</h2>

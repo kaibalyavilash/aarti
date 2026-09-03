@@ -32,14 +32,14 @@ section{position:relative;}
 /* staggered children inside a revealed grid — no markup changes needed,
    these selectors just ride the parent's .reveal.in state */
 .teaser-grid > *, .cert-grid > *, .prod-bento > *, .app-grid > *, .why-grid > *, .process > *, .job-list > *,
-.app-photo-grid > *, .join-grid > *, .photo-grid > *, .locations-grid > *{
+.app-photo-grid > *, .join-grid > *, .photo-grid > *, .locations-grid > *, .customer-tile-grid > *{
   opacity:0; transform:translateY(18px) scale(.98);
   transition:opacity .55s cubic-bezier(.16,.8,.24,1), transform .55s cubic-bezier(.16,.8,.24,1);
 }
 .teaser-grid.in > *, .cert-grid.in > *, .prod-bento.in > *, .app-grid.in > *, .why-grid.in > *, .process.in > *, .job-list.in > *,
-.app-photo-grid.in > *, .join-grid.in > *, .photo-grid.in > *, .locations-grid.in > *,
+.app-photo-grid.in > *, .join-grid.in > *, .photo-grid.in > *, .locations-grid.in > *, .customer-tile-grid.in > *,
 .in .teaser-grid > *, .in .cert-grid > *, .in .prod-bento > *, .in .app-grid > *, .in .why-grid > *, .in .process > *, .in .job-list > *,
-.in .app-photo-grid > *, .in .join-grid > *, .in .photo-grid > *, .in .locations-grid > *{
+.in .app-photo-grid > *, .in .join-grid > *, .in .photo-grid > *, .in .locations-grid > *, .in .customer-tile-grid > *{
   opacity:1; transform:translateY(0) scale(1);
 }
 .teaser-grid > *:nth-child(1),.cert-grid > *:nth-child(1),.prod-bento > *:nth-child(1),.app-grid > *:nth-child(1),.why-grid > *:nth-child(1),.process > *:nth-child(1),.job-list > *:nth-child(1){transition-delay:.03s;}
@@ -63,7 +63,7 @@ section{position:relative;}
 @media (prefers-reduced-motion: reduce){
   .reveal{opacity:1; transform:none; transition:none;}
   .teaser-grid > *, .cert-grid > *, .prod-bento > *, .app-grid > *, .why-grid > *, .process > *, .job-list > *,
-  .app-photo-grid > *, .join-grid > *, .photo-grid > *, .locations-grid > *{opacity:1; transform:none; transition:none;}
+  .app-photo-grid > *, .join-grid > *, .photo-grid > *, .locations-grid > *, .customer-tile-grid > *{opacity:1; transform:none; transition:none;}
   .page-fade{animation:none;}
   html{scroll-behavior:auto;}
 }
@@ -480,6 +480,32 @@ nav.mainnav > ul > li.navcta-item .dropdown{left:auto; right:0;}
 .logo-tile:hover img{filter:grayscale(0) opacity(1); transform:scale(1.06);}
 @media (max-width:700px){
   .logo-tile{flex:1 1 45%;}
+}
+
+/* customer wall — square photo tiles with a dark mask and white name, zoom on hover */
+.customer-tile-grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:10px; margin-top:0; margin-bottom:36px;}
+.customer-tile{
+  position:relative; aspect-ratio:1/1; border-radius:6px; overflow:hidden;
+  display:flex; align-items:center; justify-content:center; padding:14px; text-align:center;
+}
+.customer-tile img{
+  position:absolute; inset:0; width:100%; height:100%; object-fit:cover;
+  transition:transform .6s cubic-bezier(.16,.8,.24,1);
+}
+.customer-tile::after{
+  content:""; position:absolute; inset:0; z-index:1;
+  background:rgba(10,14,12,0.58); transition:background .4s ease;
+}
+.customer-tile:hover img{transform:scale(1.15);}
+.customer-tile:hover::after{background:rgba(10,14,12,0.4);}
+.customer-tile span{
+  position:relative; z-index:2; color:#fff; font-family:'Oswald',sans-serif; font-weight:600;
+  font-size:13.5px; text-transform:uppercase; letter-spacing:.02em; line-height:1.25;
+  text-shadow:0 1px 4px rgba(0,0,0,0.5);
+}
+@media (max-width:700px){
+  .customer-tile-grid{grid-template-columns:repeat(auto-fill,minmax(110px,1fr));}
+  .customer-tile span{font-size:11.5px;}
 }
 
 /* ============== JOIN US GRID (adani.com-inspired) ==============

@@ -62,26 +62,74 @@ export const clientsContent = `<section class="page-banner pb-photo" style="--ba
     <div class="section-head reveal" style="margin-bottom:16px;">
       <h4 style="font-size:14px; color:var(--hydro-2); text-transform:uppercase; letter-spacing:.08em; font-family:'JetBrains Mono';">Engineering &amp; Bearings</h4>
     </div>
-    <div class="pillrow reveal" style="margin-top:0; margin-bottom:36px;">
-      <span class="pill">Timken</span><span class="pill">Bosch</span><span class="pill">Tenneco / Federal Mogul</span><span class="pill">NBC</span><span class="pill">Eaton</span><span class="pill">Sundram Fasteners</span><span class="pill">GNA Axles</span><span class="pill">Tata Bearings</span><span class="pill">Rexroth (A Bosch Company)</span><span class="pill">American Axle &amp; Manufacturing</span><span class="pill">India Pistons</span><span class="pill">DANA</span><span class="pill">Dynamatic Technologies</span><span class="pill">Bonfiglioli</span><span class="pill">WIPRO</span><span class="pill">Shriram Pistons &amp; Rings</span><span class="pill">ZF</span><span class="pill">Axles India</span><span class="pill">SONA Comstar</span><span class="pill">IP Rings</span><span class="pill">Bharat Gears</span><span class="pill">Stanadyne</span><span class="pill">ILJIN</span><span class="pill">NRB Bearings</span>
+    <div class="customer-tile-grid reveal">
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1666618090858-fbcee636bd3e?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Timken</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1776463156345-b1a3e00ef289?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Bosch</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1524514587686-e2909d726e9b?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Tenneco / Federal Mogul</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1695120972968-21ffead317fb?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>NBC</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1784915474323-6b84bb2ed040?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Eaton</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Sundram Fasteners</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>GNA Axles</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1523848309072-c199db53f137?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Tata Bearings</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1610611342266-bcc131ecc78c?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Rexroth (A Bosch Company)</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>American Axle & Manufacturing</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>India Pistons</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1763771420303-0f11ccf613d1?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>DANA</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1666618090858-fbcee636bd3e?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Dynamatic Technologies</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1776463156345-b1a3e00ef289?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Bonfiglioli</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1524514587686-e2909d726e9b?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>WIPRO</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1695120972968-21ffead317fb?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Shriram Pistons & Rings</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1784915474323-6b84bb2ed040?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>ZF</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Axles India</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>SONA Comstar</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1523848309072-c199db53f137?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>IP Rings</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1610611342266-bcc131ecc78c?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Bharat Gears</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Stanadyne</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>ILJIN</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1763771420303-0f11ccf613d1?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>NRB Bearings</span></div>
     </div>
     <div class="section-head reveal" style="margin-bottom:16px;">
       <h4 style="font-size:14px; color:var(--hydro-2); text-transform:uppercase; letter-spacing:.08em; font-family:'JetBrains Mono';">Passenger &amp; Commercial Vehicles</h4>
     </div>
-    <div class="pillrow reveal" style="margin-top:0; margin-bottom:36px;">
-      <span class="pill">Porsche</span><span class="pill">Audi</span><span class="pill">Stellantis</span><span class="pill">Rivian</span><span class="pill">Citroën</span><span class="pill">Mahindra</span><span class="pill">Daimler</span><span class="pill">Ashok Leyland</span><span class="pill">Volvo Eicher</span><span class="pill">IVECO</span><span class="pill">DAF</span><span class="pill">PACCAR</span>
+    <div class="customer-tile-grid reveal">
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1666618090858-fbcee636bd3e?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Porsche</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1776463156345-b1a3e00ef289?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Audi</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1524514587686-e2909d726e9b?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Stellantis</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1695120972968-21ffead317fb?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Rivian</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1784915474323-6b84bb2ed040?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Citroën</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Mahindra</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Daimler</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1523848309072-c199db53f137?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Ashok Leyland</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1610611342266-bcc131ecc78c?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Volvo Eicher</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>IVECO</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>DAF</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1763771420303-0f11ccf613d1?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>PACCAR</span></div>
     </div>
     <div class="section-head reveal" style="margin-bottom:16px;">
       <h4 style="font-size:14px; color:var(--hydro-2); text-transform:uppercase; letter-spacing:.08em; font-family:'JetBrains Mono';">Tractor, Off-Road &amp; Two-Wheelers</h4>
     </div>
-    <div class="pillrow reveal" style="margin-top:0; margin-bottom:36px;">
-      <span class="pill">Sonalika</span><span class="pill">TAFE</span><span class="pill">John Deere</span><span class="pill">Caterpillar</span><span class="pill">Tata Hitachi</span><span class="pill">L&amp;T Hydraulics</span><span class="pill">Royal Enfield</span><span class="pill">TVS</span>
+    <div class="customer-tile-grid reveal">
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1666618090858-fbcee636bd3e?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Sonalika</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1776463156345-b1a3e00ef289?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>TAFE</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1524514587686-e2909d726e9b?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>John Deere</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1695120972968-21ffead317fb?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Caterpillar</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1784915474323-6b84bb2ed040?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Tata Hitachi</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>L&amp;T Hydraulics</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Royal Enfield</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1523848309072-c199db53f137?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>TVS</span></div>
     </div>
     <div class="section-head reveal" style="margin-bottom:16px;">
       <h4 style="font-size:14px; color:var(--ash); text-transform:uppercase; letter-spacing:.08em; font-family:'JetBrains Mono';">OEMs Under Development</h4>
     </div>
-    <div class="pillrow reveal" style="margin-top:0;">
-      <span class="pill">Cummins</span><span class="pill">Meritor</span><span class="pill">Tata Motors</span><span class="pill">Hero</span><span class="pill">Honda</span><span class="pill">Maruti Suzuki</span><span class="pill">Bajaj</span><span class="pill">Schaeffler</span>
+    <div class="customer-tile-grid reveal">
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1610611342266-bcc131ecc78c?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Cummins</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Meritor</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Tata Motors</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1763771420303-0f11ccf613d1?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Hero</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1666618090858-fbcee636bd3e?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Honda</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1776463156345-b1a3e00ef289?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Maruti Suzuki</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1524514587686-e2909d726e9b?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Bajaj</span></div>
+      <div class="customer-tile"><img src="https://images.unsplash.com/photo-1695120972968-21ffead317fb?w=500&q=65&auto=format&fit=crop" alt="" loading="lazy"><span>Schaeffler</span></div>
     </div>
   </div>
 </section>
