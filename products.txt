@@ -1,0 +1,74 @@
+3:I[4707,[],""]
+4:I[6423,[],""]
+5:I[882,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+6:I[3603,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+7:I[2972,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],""]
+8:I[9215,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+9:I[1479,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+2:T1402,<section class="page-banner pb-photo" style="--banner-img:url('https://images.unsplash.com/photo-1744735973756-b2efa8be24c8?w=1600&q=70&auto=format&fit=crop')">
+  <div class="wrap page-banner-inner">
+    <div class="breadcrumb"><a href="/aarti/">Home</a><span>/</span><span>Products</span></div>
+    <h1>Ten divisions,<br><em style="font-style:normal;color:var(--hydro-2);">one supply chain.</em></h1>
+    <p>Carbon and alloy steel, iron-making, ferro alloys, oxygen and power — vertically integrated under one roof in Cuttack. Click through any division for the full page.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap">
+    <div class="prod-bento reveal">
+      <a class="prod-tile pt-large" href="/aarti/products/special-steel">
+        <img src="https://images.unsplash.com/photo-1569950044518-fa4f3f19a888?w=1200&q=70&auto=format&fit=crop" alt="Glowing forged special steel" loading="lazy">
+        <div class="pt-content"><span class="tag">01</span><h4>Special Steel</h4><p>Alloys engineered for strength, durability and tight tolerance across critical applications.</p></div>
+      </a>
+      <a class="prod-tile" href="/aarti/products/iron-making">
+        <img src="https://images.unsplash.com/photo-1647586028042-1de4d4a935e6?w=800&q=70&auto=format&fit=crop" alt="Iron making and metal fabrication" loading="lazy">
+        <div class="pt-content"><span class="tag">02</span><h4>Iron Making</h4><p>Our metallurgical core, feeding every downstream division.</p></div>
+      </a>
+      <a class="prod-tile" href="/aarti/products/ferro-alloy">
+        <img src="https://images.unsplash.com/photo-1744735973756-b2efa8be24c8?w=800&q=70&auto=format&fit=crop" alt="Ferro alloy metalworking" loading="lazy">
+        <div class="pt-content"><span class="tag">03</span><h4>Ferro Alloy</h4><p>Precision-crafted alloys to demanding specifications.</p></div>
+      </a>
+      <a class="prod-tile" href="/aarti/products/round-bars">
+        <img src="https://images.unsplash.com/photo-1763771420303-0f11ccf613d1?w=800&q=70&auto=format&fit=crop" alt="Bundled steel round bars" loading="lazy">
+        <div class="pt-content"><span class="tag">04</span><h4>Round Bars</h4><p>Sized and graded for automotive and gear work.</p></div>
+      </a>
+      <a class="prod-tile" href="/aarti/products/wire-rods">
+        <img src="https://images.unsplash.com/photo-1570970348641-13691ff58528?w=800&q=70&auto=format&fit=crop" alt="Coiled steel wire rod" loading="lazy">
+        <div class="pt-content"><span class="tag">05</span><h4>Wire Rods</h4><p>Spring steel wires and tyre bead wire for tensile applications.</p></div>
+      </a>
+      <a class="prod-tile" href="/aarti/products/steel-squares">
+        <img src="https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=800&q=70&auto=format&fit=crop" alt="Steel squares being worked" loading="lazy">
+        <div class="pt-content"><span class="tag">07</span><h4>Steel Squares</h4><p>Rolled to spec for forging and machining.</p></div>
+      </a>
+      <a class="prod-tile pt-wide" href="/aarti/products/sponge-iron">
+        <img src="https://images.unsplash.com/photo-1745377881072-fa978cac245a?w=1200&q=70&auto=format&fit=crop" alt="Sponge iron processing machinery" loading="lazy">
+        <div class="pt-content"><span class="tag">06</span><h4>Sponge Iron</h4><p>Direct-reduced iron feedstock produced in-house for our steelmaking route.</p></div>
+      </a>
+      <a class="prod-tile" href="/aarti/products/oxygen">
+        <img src="https://images.unsplash.com/photo-1526139506140-315ac793b9cf?w=800&q=70&auto=format&fit=crop" alt="Industrial oxygen supply cylinders" loading="lazy">
+        <div class="pt-content"><span class="tag">08</span><h4>Oxygen</h4><p>High-purity industrial oxygen supplied reliably.</p></div>
+      </a>
+      <a class="prod-tile pt-wide" href="/aarti/products/fly-ash">
+        <img src="https://images.unsplash.com/photo-1527105763016-1b36a9d21bfa?w=1200&q=70&auto=format&fit=crop" alt="Industrial plant chimney emissions" loading="lazy">
+        <div class="pt-content"><span class="tag">09</span><h4>Fly Ash By-Products</h4><p>Combustion residue from our power division, repurposed rather than landfilled.</p></div>
+      </a>
+      <a class="prod-tile pt-wide pt-power" href="/aarti/products/power">
+        <img src="https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=1200&q=70&auto=format&fit=crop" alt="Industrial power plant" loading="lazy">
+        <div class="pt-content"><span class="tag">10</span><h4>Power</h4><p>90 MW of captive AFBC and CFBC generation feeding a stable, consistent melt shop.</p></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<div class="ctaband">
+  <div class="wrap">
+    <h2 class="reveal">Not sure which grade fits your application?</h2>
+    <p class="reveal">Tell us what you're building and we'll match it to a grade and division.</p>
+    <div class="slide-cta reveal">
+      <a href="/aarti/products/grades" class="btn btn-primary">View grade range →</a>
+      <a href="/aarti/applications" class="btn btn-ghost">Browse by industry</a>
+    </div>
+  </div>
+</div>
+0:["SOe9I0gZfUjw7E_Mg7wVl",[[["",{"children":["products",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["products",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","products","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/aarti/_next/static/css/c44ed4c4ab3df6bd.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","main",null,{"children":["$","$L6",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"foot-grid","children":[["$","div",null,{"className":"foot-brand","children":[["$","$L7",null,{"href":"/","className":"logo","children":["$","img",null,{"src":"/aarti/aarti-logo.png","alt":"Aarti Steel","className":"logo-img"}]}],["$","p",null,{"children":"Carbon and alloy steel manufacturer in Cuttack, Odisha — supplying special steel, ferro alloys and wire rods to India's auto, defence, energy and rail industries since 1979."}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Products"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L7",null,{"href":"/products/special-steel","children":"Special Steel"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/iron-making","children":"Iron Making"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/ferro-alloy","children":"Ferro Alloy"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/round-bars","children":"Round Bars"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/wire-rods","children":"Wire Rods"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Company"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L7",null,{"href":"/about","children":"About Us"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/circularity","children":"Circularity"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/infrastructure","children":"Infrastructure"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/csr","children":"EHS & CSR"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/our-clients","children":"Our Clients"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/sell-us","children":"Sell To Us"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/careers","children":"Careers"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:contact@aartisteelsltd.com","children":"contact@aartisteelsltd.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+916717161000","children":"+91-671-7161000"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/company/aartisteelsltd/","children":"LinkedIn"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","children":"Get In Touch"}]}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","p",null,{"children":"© 2026 Aarti Steel. All rights reserved."}],["$","p",null,{"children":[["$","a",null,{"href":"#","children":"Terms & Conditions"}],"  · "," ",["$","a",null,{"href":"#","children":"Privacy Policy"}]]}]]}]]}]}],["$","$L8",null,{}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Products — Aarti Steel"}],["$","meta","3",{"name":"description","content":"Special steel, iron making, ferro alloy, round bars, wire rods, oxygen and fly ash by-products from Aarti Steel."}]]
+1:null

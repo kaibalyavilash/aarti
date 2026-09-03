@@ -1,0 +1,86 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[882,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+7:I[3603,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+8:I[2972,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],""]
+9:I[9215,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+a:I[1479,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+2:T1332,<section class="section">
+  <div class="wrap">
+    <div class="about-grid reveal">
+      <div class="about-copy">
+        <div class="eyebrow" style="color:var(--ember-2); font-family:'JetBrains Mono'; font-size:12px; letter-spacing:.22em; text-transform:uppercase; display:flex; gap:12px; align-items:center; margin-bottom:18px;"><span style="width:34px;height:1px;background:currentColor;display:inline-block;"></span>Beyond compliance</div>
+        <h2 style="margin-bottom:18px;">Environment</h2>
+        <p>Our environmental commitments run through the plant: fly ash recovery instead of landfill, a scrap-first feedstock strategy, and ongoing investment in cleaner, more efficient captive power.</p>
+        <p>Our hot-rolled product carries a <strong>GreenPro Ecolabel certified carbon footprint of 636 kg CO2eq per tonne</strong> (certificate valid to December 2027) — down from 797 kg in 2023, with a roadmap to 330 kg by 2030.</p>
+        <p><a href="/aarti/circularity" class="btn btn-ghost" style="margin-top:6px;">See our circular economy loop →</a></p>
+      </div>
+      <div class="photo-grid">
+        <div class="ph" data-tag="Emissions Tracking"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M4 20V10l4-4 4 4 4-4 4 4v10H4z"/></svg></div>
+        <div class="ph" data-tag="Water Usage"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M12 2s6 7 6 12a6 6 0 1 1-12 0c0-5 6-12 6-12z"/></svg></div>
+        <div class="ph" data-tag="Fly Ash Recovery"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><path d="M3 12l4-8 4 8 4-8 4 8"/></svg></div>
+        <div class="ph" data-tag="Roadmap"><svg viewBox="0 0 24 24" fill="none" stroke="#3d4a40" stroke-width="1"><rect x="4" y="4" width="16" height="16"/></svg></div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section tight alt-bg">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Certified, not claimed</div>
+      <h2 style="font-size:28px;">GreenPro Ecolabel — Per-Grade CO2 Footprint</h2>
+    </div>
+    <div class="datatable reveal">
+      <table>
+        <thead><tr><th>Grade</th><th>Certified CO2eq / MT</th></tr></thead>
+        <tbody>
+          <tr><td class="lead">100Cr6 / 52100 / SUJ2R</td><td>559 kg</td></tr>
+          <tr><td class="lead">C56E2</td><td>467 kg</td></tr>
+          <tr><td class="lead">20MnCr5</td><td>501 kg</td></tr>
+          <tr><td class="lead">100CrMnSi6-4</td><td>605 kg</td></tr>
+          <tr><td class="lead">C45 Modified</td><td>465 kg</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Recognised</div>
+      <h2>Environmental Awards</h2>
+    </div>
+    <div class="cert-grid reveal">
+      <div class="cert-card"><h4>CII GreenPro Ecolabel Award 2025</h4><p>Green Products &amp; Services Council — Automotive and Engineering Steel category.</p></div>
+      <div class="cert-card"><h4>Odisha State Energy Conservation Award 2024</h4><p>Captive/Industrial Power Plant (CPP/IPP) category.</p></div>
+      <div class="cert-card"><h4>Fly Ash Utilisation Award 2025</h4><p>Winner, Excellence in R&amp;D — Mission Energy Foundation.</p></div>
+      <div class="cert-card"><h4>Kalinga Environment Excellence National Award 2024</h4><p>Winner, 4-star rating, presented in Bhubaneswar.</p></div>
+    </div>
+  </div>
+</section>
+<section class="section tight alt-bg">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Regulatory transparency</div>
+      <h2 style="font-size:28px;">Environmental Clearance Compliance</h2>
+      <p>We operate under two Environmental Clearances (EC) and file half-yearly compliance reports with the regulatory authorities as a matter of standard practice — publicly available, not just filed and forgotten.</p>
+    </div>
+    <div class="cert-grid reveal">
+      <div class="cert-card"><h4>EC 2005</h4><p>Half-yearly compliance reports filed continuously, including Oct 2023–Mar 2024, Apr–Sep 2024 and Oct 2024–Mar 2025.</p></div>
+      <div class="cert-card"><h4>EC 2009</h4><p>Half-yearly compliance reports filed continuously, including Apr–Sep 2025 and Oct 2025–Mar 2026.</p></div>
+      <div class="cert-card"><h4>Public Disclosure</h4><p>Compliance reports for both clearances are published for review, alongside our ISO 14001:2015 environmental management certification.</p></div>
+    </div>
+  </div>
+</section>
+<div class="ctaband">
+  <div class="wrap">
+    <h2 class="reveal">Sourcing certified low-carbon steel?</h2>
+    <div class="slide-cta reveal">
+      <a href="/aarti/contact" class="btn btn-primary">Talk to our team →</a>
+      <a href="/aarti/circularity" class="btn btn-ghost">Circular economy loop →</a>
+    </div>
+  </div>
+</div>4:["slug","environment","d"]
+0:["SOe9I0gZfUjw7E_Mg7wVl",[[["",{"children":["csr",{"children":[["slug","environment","d"],{"children":["__PAGE__?{\"slug\":\"environment\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["csr",{"children":[["slug","environment","d"],{"children":["__PAGE__",{},[["$L1",[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<section class=\"page-banner pb-photo\" style=\"--banner-img:url('https://images.unsplash.com/photo-1671362935207-d9abfc5b9509?w=1600&q=70&auto=format&fit=crop')\">\n  <div class=\"wrap page-banner-inner\">\n    <div class=\"breadcrumb\"><a href=\"/aarti/\">Home</a><span>/</span><a href=\"/aarti/csr\">EHS & CSR</a><span>/</span><span>Environment</span></div>\n    <h1>Environment</h1>\n    <p>Certified carbon intensity, not a slogan — our roadmap from today's plant to 2030.</p>\n  </div>\n</section>"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","csr","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","csr","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/aarti/_next/static/css/c44ed4c4ab3df6bd.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L6",null,{}],["$","main",null,{"children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"foot-grid","children":[["$","div",null,{"className":"foot-brand","children":[["$","$L8",null,{"href":"/","className":"logo","children":["$","img",null,{"src":"/aarti/aarti-logo.png","alt":"Aarti Steel","className":"logo-img"}]}],["$","p",null,{"children":"Carbon and alloy steel manufacturer in Cuttack, Odisha — supplying special steel, ferro alloys and wire rods to India's auto, defence, energy and rail industries since 1979."}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Products"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/products/special-steel","children":"Special Steel"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/iron-making","children":"Iron Making"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/ferro-alloy","children":"Ferro Alloy"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/round-bars","children":"Round Bars"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/wire-rods","children":"Wire Rods"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Company"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/about","children":"About Us"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/circularity","children":"Circularity"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/infrastructure","children":"Infrastructure"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/csr","children":"EHS & CSR"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/our-clients","children":"Our Clients"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/sell-us","children":"Sell To Us"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/careers","children":"Careers"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:contact@aartisteelsltd.com","children":"contact@aartisteelsltd.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+916717161000","children":"+91-671-7161000"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/company/aartisteelsltd/","children":"LinkedIn"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/contact","children":"Get In Touch"}]}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","p",null,{"children":"© 2026 Aarti Steel. All rights reserved."}],["$","p",null,{"children":[["$","a",null,{"href":"#","children":"Terms & Conditions"}],"  · "," ",["$","a",null,{"href":"#","children":"Privacy Policy"}]]}]]}]]}]}],["$","$L9",null,{}],["$","$La",null,{}]]}]}]],null],null],["$Lb",null]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Environment — Aarti Steel"}],["$","meta","3",{"name":"description","content":"Environmental performance and certifications at Aarti Steel: certified CO2 intensity, GreenPro Ecolabel, and national awards."}]]
+1:null

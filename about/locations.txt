@@ -1,0 +1,44 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[882,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+7:I[3603,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+8:I[2972,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],""]
+9:I[9215,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+a:I[1479,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+2:T699,<section class="wide-band" style="--banner-img:url('https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=1920&q=70&auto=format&fit=crop')">
+  <div class="wrap">
+    <div class="section-head center reveal">
+      <div class="eyebrow">Where to find us</div>
+      <h2>Our Locations</h2>
+    </div>
+    <div class="locations-grid reveal">
+      <div class="location-card">
+        <h4>Head Office</h4>
+        <address>Aarti Steels Limited<br>Sector 51, Gurugram<br>Haryana – 122003, India</address>
+        <a class="locate-link" href="https://www.google.com/maps/search/?api=1&query=Aarti+Steels+Limited+Sector+51+Gurugram+Haryana" target="_blank" rel="noopener">Locate on map →</a>
+      </div>
+      <div class="location-card">
+        <h4>Cuttack Plant</h4>
+        <address>Ghantikhal, P.O. Mahakalbasta<br>Via Athgarh, Dist. Cuttack<br>Odisha – 754029, India</address>
+        <a class="locate-link" href="https://www.google.com/maps/search/?api=1&query=Aarti+Steels+Limited+Ghantikhal+Athgarh+Cuttack+Odisha" target="_blank" rel="noopener">Locate on map →</a>
+      </div>
+      <div class="location-card">
+        <h4>Reach Us Directly</h4>
+        <address>+91-671-7161000<br>Fax: +91-671-7161150<br>contact@aartisteelsltd.com</address>
+        <a class="locate-link" href="mailto:contact@aartisteelsltd.com">Email us →</a>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="ctaband">
+  <div class="wrap">
+    <h2 class="reveal">Get in touch.</h2>
+    <div class="slide-cta reveal">
+      <a href="/aarti/contact" class="btn btn-primary">Contact us →</a>
+      <a href="/aarti/about" class="btn btn-ghost">← About overview</a>
+    </div>
+  </div>
+</div>4:["slug","locations","d"]
+0:["SOe9I0gZfUjw7E_Mg7wVl",[[["",{"children":["about",{"children":[["slug","locations","d"],{"children":["__PAGE__?{\"slug\":\"locations\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["about",{"children":[["slug","locations","d"],{"children":["__PAGE__",{},[["$L1",[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<section class=\"page-banner pb-photo\" style=\"--banner-img:url('https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=1600&q=70&auto=format&fit=crop')\">\n  <div class=\"wrap page-banner-inner\">\n    <div class=\"breadcrumb\"><a href=\"/aarti/\">Home</a><span>/</span><a href=\"/aarti/about\">About Us</a><span>/</span><span>Locations</span></div>\n    <h1>Locations</h1>\n    <p>Head office in Gurugram, manufacturing plant in Cuttack, Odisha.</p>\n  </div>\n</section>"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","about","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","about","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/aarti/_next/static/css/c44ed4c4ab3df6bd.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L6",null,{}],["$","main",null,{"children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"foot-grid","children":[["$","div",null,{"className":"foot-brand","children":[["$","$L8",null,{"href":"/","className":"logo","children":["$","img",null,{"src":"/aarti/aarti-logo.png","alt":"Aarti Steel","className":"logo-img"}]}],["$","p",null,{"children":"Carbon and alloy steel manufacturer in Cuttack, Odisha — supplying special steel, ferro alloys and wire rods to India's auto, defence, energy and rail industries since 1979."}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Products"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/products/special-steel","children":"Special Steel"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/iron-making","children":"Iron Making"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/ferro-alloy","children":"Ferro Alloy"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/round-bars","children":"Round Bars"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/wire-rods","children":"Wire Rods"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Company"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/about","children":"About Us"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/circularity","children":"Circularity"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/infrastructure","children":"Infrastructure"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/csr","children":"EHS & CSR"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/our-clients","children":"Our Clients"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/sell-us","children":"Sell To Us"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/careers","children":"Careers"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:contact@aartisteelsltd.com","children":"contact@aartisteelsltd.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+916717161000","children":"+91-671-7161000"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/company/aartisteelsltd/","children":"LinkedIn"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/contact","children":"Get In Touch"}]}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","p",null,{"children":"© 2026 Aarti Steel. All rights reserved."}],["$","p",null,{"children":[["$","a",null,{"href":"#","children":"Terms & Conditions"}],"  · "," ",["$","a",null,{"href":"#","children":"Privacy Policy"}]]}]]}]]}]}],["$","$L9",null,{}],["$","$La",null,{}]]}]}]],null],null],["$Lb",null]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Locations — Aarti Steel"}],["$","meta","3",{"name":"description","content":"Aarti Steel's head office and Cuttack, Odisha manufacturing plant locations and contact details."}]]
+1:null

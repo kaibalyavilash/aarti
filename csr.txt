@@ -1,0 +1,61 @@
+3:I[4707,[],""]
+4:I[6423,[],""]
+5:I[882,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+6:I[3603,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+7:I[2972,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],""]
+8:I[9215,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+9:I[1479,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+2:T90c,<section class="page-banner pb-photo" style="--banner-img:url('https://images.unsplash.com/photo-1671362935207-d9abfc5b9509?w=1600&q=70&auto=format&fit=crop')">
+  <div class="wrap page-banner-inner">
+    <div class="breadcrumb"><a href="/aarti/">Home</a><span>/</span><span>EHS &amp; CSR</span></div>
+    <h1>Responsibility isn't <em style="font-style:normal;color:var(--hydro-2);">a slogan.</em></h1>
+    <p>Environment, health, safety and community — the commitments that sit alongside our carbon roadmap.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap">
+    <div class="teaser-grid reveal">
+      <a class="teaser-card" href="/aarti/csr/ehs">
+        <span class="tag">01 / Safety</span>
+        <h3>EHS</h3>
+        <p>Workplace safety, health monitoring and ISO 45001-certified continuous improvement.</p>
+        <span class="go">Learn more →</span>
+      </a>
+      <a class="teaser-card" href="/aarti/csr/community">
+        <span class="tag">02 / Community</span>
+        <h3>CSR</h3>
+        <p>Local employment, stakeholder trust and a long-term view built for decades.</p>
+        <span class="go">Learn more →</span>
+      </a>
+      <a class="teaser-card" href="/aarti/csr/environment">
+        <span class="tag">03 / Carbon</span>
+        <h3>Environment</h3>
+        <p>Certified CO2 intensity, GreenPro Ecolabel and national environmental awards.</p>
+        <span class="go">Learn more →</span>
+      </a>
+      <a class="teaser-card" href="/aarti/csr/green-steel">
+        <span class="tag">04 / Roadmap</span>
+        <h3>Green Steel</h3>
+        <p>Our certified route to 330 kg CO2eq/MT by 2030 — GreenPro Ecolabel verified.</p>
+        <span class="go">Learn more →</span>
+      </a>
+      <a class="teaser-card" href="/aarti/circularity">
+        <span class="tag">05 / Loop</span>
+        <h3>Circularity</h3>
+        <p>Scrap in, steel out — how our EAF route closes the loop on iron and steel.</p>
+        <span class="go">Learn more →</span>
+      </a>
+    </div>
+  </div>
+</section>
+<div class="ctaband">
+  <div class="wrap">
+    <h2 class="reveal">Questions about our EHS or sustainability programme?</h2>
+    <div class="slide-cta reveal">
+      <a href="/aarti/contact" class="btn btn-primary">Talk to our team →</a>
+    </div>
+  </div>
+</div>
+0:["SOe9I0gZfUjw7E_Mg7wVl",[[["",{"children":["csr",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["csr",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","csr","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/aarti/_next/static/css/c44ed4c4ab3df6bd.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","main",null,{"children":["$","$L6",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"foot-grid","children":[["$","div",null,{"className":"foot-brand","children":[["$","$L7",null,{"href":"/","className":"logo","children":["$","img",null,{"src":"/aarti/aarti-logo.png","alt":"Aarti Steel","className":"logo-img"}]}],["$","p",null,{"children":"Carbon and alloy steel manufacturer in Cuttack, Odisha — supplying special steel, ferro alloys and wire rods to India's auto, defence, energy and rail industries since 1979."}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Products"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L7",null,{"href":"/products/special-steel","children":"Special Steel"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/iron-making","children":"Iron Making"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/ferro-alloy","children":"Ferro Alloy"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/round-bars","children":"Round Bars"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/wire-rods","children":"Wire Rods"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Company"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L7",null,{"href":"/about","children":"About Us"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/circularity","children":"Circularity"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/infrastructure","children":"Infrastructure"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/csr","children":"EHS & CSR"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/our-clients","children":"Our Clients"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/sell-us","children":"Sell To Us"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/careers","children":"Careers"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:contact@aartisteelsltd.com","children":"contact@aartisteelsltd.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+916717161000","children":"+91-671-7161000"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/company/aartisteelsltd/","children":"LinkedIn"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","children":"Get In Touch"}]}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","p",null,{"children":"© 2026 Aarti Steel. All rights reserved."}],["$","p",null,{"children":[["$","a",null,{"href":"#","children":"Terms & Conditions"}],"  · "," ",["$","a",null,{"href":"#","children":"Privacy Policy"}]]}]]}]]}]}],["$","$L8",null,{}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"EHS & CSR — Aarti Steel"}],["$","meta","3",{"name":"description","content":"Environment, health, safety and community commitments at Aarti Steel."}]]
+1:null

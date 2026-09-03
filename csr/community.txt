@@ -1,0 +1,45 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[882,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+7:I[3603,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+8:I[2972,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],""]
+9:I[9215,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+a:I[1479,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+2:T595,<section class="section">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Community</div>
+      <h2>CSR</h2>
+      <p>We believe in long-term, mutually rewarding partnerships based on transparency and fair business practices with all our stakeholders — including the communities we operate in.</p>
+    </div>
+    <div class="why-grid reveal">
+      <div class="why-card">
+        <div class="num">01</div>
+        <h4>Local Employment</h4>
+        <p>Direct and indirect employment across manufacturing, logistics and ancillary services in and around Cuttack, Odisha.</p>
+      </div>
+      <div class="why-card">
+        <div class="num">02</div>
+        <h4>Stakeholder Trust</h4>
+        <p>Transparent, fair-dealing relationships with suppliers, customers and the communities around our plants.</p>
+      </div>
+      <div class="why-card">
+        <div class="num">03</div>
+        <h4>Long-Term View</h4>
+        <p>Investments in people and process built for decades, not quarters — consistent with our 44-year track record.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="ctaband">
+  <div class="wrap">
+    <h2 class="reveal">See our other commitments.</h2>
+    <div class="slide-cta reveal">
+      <a href="/aarti/csr/ehs" class="btn btn-primary">EHS →</a>
+      <a href="/aarti/csr/environment" class="btn btn-ghost">Environment →</a>
+    </div>
+  </div>
+</div>4:["slug","community","d"]
+0:["SOe9I0gZfUjw7E_Mg7wVl",[[["",{"children":["csr",{"children":[["slug","community","d"],{"children":["__PAGE__?{\"slug\":\"community\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["csr",{"children":[["slug","community","d"],{"children":["__PAGE__",{},[["$L1",[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<section class=\"page-banner pb-photo\" style=\"--banner-img:url('https://images.unsplash.com/photo-1567789884554-0b844b597180?w=1600&q=70&auto=format&fit=crop')\">\n  <div class=\"wrap page-banner-inner\">\n    <div class=\"breadcrumb\"><a href=\"/aarti/\">Home</a><span>/</span><a href=\"/aarti/csr\">EHS & CSR</a><span>/</span><span>CSR</span></div>\n    <h1>CSR</h1>\n    <p>Long-term, mutually rewarding partnerships built on transparency and fair business practices.</p>\n  </div>\n</section>"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","csr","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","csr","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/aarti/_next/static/css/c44ed4c4ab3df6bd.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L6",null,{}],["$","main",null,{"children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"foot-grid","children":[["$","div",null,{"className":"foot-brand","children":[["$","$L8",null,{"href":"/","className":"logo","children":["$","img",null,{"src":"/aarti/aarti-logo.png","alt":"Aarti Steel","className":"logo-img"}]}],["$","p",null,{"children":"Carbon and alloy steel manufacturer in Cuttack, Odisha — supplying special steel, ferro alloys and wire rods to India's auto, defence, energy and rail industries since 1979."}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Products"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/products/special-steel","children":"Special Steel"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/iron-making","children":"Iron Making"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/ferro-alloy","children":"Ferro Alloy"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/round-bars","children":"Round Bars"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/wire-rods","children":"Wire Rods"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Company"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/about","children":"About Us"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/circularity","children":"Circularity"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/infrastructure","children":"Infrastructure"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/csr","children":"EHS & CSR"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/our-clients","children":"Our Clients"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/sell-us","children":"Sell To Us"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/careers","children":"Careers"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:contact@aartisteelsltd.com","children":"contact@aartisteelsltd.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+916717161000","children":"+91-671-7161000"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/company/aartisteelsltd/","children":"LinkedIn"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/contact","children":"Get In Touch"}]}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","p",null,{"children":"© 2026 Aarti Steel. All rights reserved."}],["$","p",null,{"children":[["$","a",null,{"href":"#","children":"Terms & Conditions"}],"  · "," ",["$","a",null,{"href":"#","children":"Privacy Policy"}]]}]]}]]}]}],["$","$L9",null,{}],["$","$La",null,{}]]}]}]],null],null],["$Lb",null]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"CSR — Aarti Steel"}],["$","meta","3",{"name":"description","content":"Corporate social responsibility at Aarti Steel, Cuttack, Odisha."}]]
+1:null

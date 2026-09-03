@@ -1,0 +1,116 @@
+3:I[4707,[],""]
+4:I[6423,[],""]
+5:I[882,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+6:I[3603,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+7:I[2972,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],""]
+8:I[9215,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+9:I[1479,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+2:T1436,<section class="page-banner pb-photo" style="--banner-img:url('https://images.unsplash.com/photo-1647586028042-1de4d4a935e6?w=1600&q=70&auto=format&fit=crop')">
+  <div class="wrap page-banner-inner">
+    <div class="breadcrumb"><a href="/aarti/">Home</a><span>/</span><span>Contact</span></div>
+    <h1>Let's talk <em style="font-style:normal;color:var(--hydro-2);">steel.</em></h1>
+    <p>Certified low-carbon volumes or standard grades at scale — our team can walk you through what's available.</p>
+  </div>
+</section>
+
+<section class="wide-band" style="--banner-img:url('https://images.unsplash.com/photo-1473876637954-4b493d59fd97?w=1920&q=70&auto=format&fit=crop')">
+  <div class="wrap">
+    <div class="section-head center reveal">
+      <div class="eyebrow">Where to find us</div>
+      <h2>Our Locations</h2>
+    </div>
+    <div class="locations-grid reveal">
+      <div class="location-card">
+        <h4>Head Office</h4>
+        <address>Aarti Steels Limited<br>Sector 51, Gurugram<br>Haryana – 122003, India</address>
+        <a class="locate-link" href="https://www.google.com/maps/search/?api=1&query=Aarti+Steels+Limited+Sector+51+Gurugram+Haryana" target="_blank" rel="noopener">Locate on map →</a>
+      </div>
+      <div class="location-card">
+        <h4>Cuttack Plant</h4>
+        <address>Ghantikhal, P.O. Mahakalbasta<br>Via Athgarh, Dist. Cuttack<br>Odisha – 754029, India</address>
+        <a class="locate-link" href="https://www.google.com/maps/search/?api=1&query=Aarti+Steels+Limited+Ghantikhal+Athgarh+Cuttack+Odisha" target="_blank" rel="noopener">Locate on map →</a>
+      </div>
+      <div class="location-card">
+        <h4>Reach Us Directly</h4>
+        <address>+91-671-7161000<br>Fax: +91-671-7161150<br>contact@aartisteelsltd.com</address>
+        <a class="locate-link" href="mailto:contact@aartisteelsltd.com">Email us →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="contact-grid reveal">
+      <div>
+        <div class="section-head" style="margin-bottom:32px;">
+          <div class="eyebrow" style="color:var(--hydro-2); font-family:'JetBrains Mono'; font-size:12px; letter-spacing:.22em; text-transform:uppercase; display:flex; gap:12px; align-items:center; margin-bottom:18px;">Request a Quote</div>
+          <h2 style="font-size:30px;">Tell us what you need.</h2>
+        </div>
+        <form class="contact-form">
+          <div>
+            <label for="name">Full Name</label>
+            <input type="text" id="name" name="name" placeholder="Your name" required>
+          </div>
+          <div>
+            <label for="company">Company</label>
+            <input type="text" id="company" name="company" placeholder="Company name">
+          </div>
+          <div>
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="you@company.com" required>
+          </div>
+          <div>
+            <label for="grade">Product / Grade of Interest</label>
+            <select id="grade" name="grade">
+              <option>Special Steel</option>
+              <option>Iron Making</option>
+              <option>Ferro Alloy</option>
+              <option>Round Bars</option>
+              <option>Wire Rods</option>
+              <option>Oxygen</option>
+              <option>Fly Ash By-Products</option>
+              <option>Not sure — advise me</option>
+            </select>
+          </div>
+          <div>
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Volumes, grade specs, timeline..."></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary" style="align-self:flex-start;">Submit Request</button>
+        </form>
+      </div>
+      <div>
+        <div class="section-head" style="margin-bottom:32px;">
+          <div class="eyebrow" style="color:var(--ember-2); font-family:'JetBrains Mono'; font-size:12px; letter-spacing:.22em; text-transform:uppercase; display:flex; gap:12px; align-items:center; margin-bottom:18px;">Reach us directly</div>
+          <h2 style="font-size:30px;">Get In Touch</h2>
+        </div>
+        <div class="cert-grid" style="grid-template-columns:1fr;">
+          <div class="cert-card">
+            <h4>Head Office</h4>
+            <p>Aarti Steels Limited, Sector 51, Gurugram, Haryana – 122003, India.</p>
+          </div>
+          <div class="cert-card">
+            <h4>Cuttack Plant</h4>
+            <p>Ghantikhal, P.O. Mahakalbasta, Via Athgarh, Dist. Cuttack – 754029, Odisha, India.</p>
+          </div>
+          <div class="cert-card">
+            <h4>Phone &amp; Fax</h4>
+            <p>+91-671-7161000<br>Fax: +91-671-7161150</p>
+          </div>
+          <div class="cert-card">
+            <h4>Email</h4>
+            <p>contact@aartisteelsltd.com</p>
+          </div>
+          <div class="cert-card">
+            <h4>Careers</h4>
+            <p>careers@aartisteelsltd.com &nbsp;·&nbsp; <a href="/aarti/careers" style="color:var(--hydro-2);">View open roles →</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+0:["SOe9I0gZfUjw7E_Mg7wVl",[[["",{"children":["contact",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["contact",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","contact","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/aarti/_next/static/css/c44ed4c4ab3df6bd.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","main",null,{"children":["$","$L6",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"foot-grid","children":[["$","div",null,{"className":"foot-brand","children":[["$","$L7",null,{"href":"/","className":"logo","children":["$","img",null,{"src":"/aarti/aarti-logo.png","alt":"Aarti Steel","className":"logo-img"}]}],["$","p",null,{"children":"Carbon and alloy steel manufacturer in Cuttack, Odisha — supplying special steel, ferro alloys and wire rods to India's auto, defence, energy and rail industries since 1979."}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Products"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L7",null,{"href":"/products/special-steel","children":"Special Steel"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/iron-making","children":"Iron Making"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/ferro-alloy","children":"Ferro Alloy"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/round-bars","children":"Round Bars"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/wire-rods","children":"Wire Rods"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Company"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L7",null,{"href":"/about","children":"About Us"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/circularity","children":"Circularity"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/infrastructure","children":"Infrastructure"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/csr","children":"EHS & CSR"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/our-clients","children":"Our Clients"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/sell-us","children":"Sell To Us"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/careers","children":"Careers"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:contact@aartisteelsltd.com","children":"contact@aartisteelsltd.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+916717161000","children":"+91-671-7161000"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/company/aartisteelsltd/","children":"LinkedIn"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","children":"Get In Touch"}]}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","p",null,{"children":"© 2026 Aarti Steel. All rights reserved."}],["$","p",null,{"children":[["$","a",null,{"href":"#","children":"Terms & Conditions"}],"  · "," ",["$","a",null,{"href":"#","children":"Privacy Policy"}]]}]]}]]}]}],["$","$L8",null,{}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Contact — Aarti Steel"}],["$","meta","3",{"name":"description","content":"Get in touch with Aarti Steel for quotes, grade specifications and volume enquiries."}]]
+1:null

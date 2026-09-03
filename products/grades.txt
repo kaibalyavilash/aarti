@@ -1,0 +1,53 @@
+3:I[4707,[],""]
+4:I[6423,[],""]
+5:I[882,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+6:I[3603,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+7:I[2972,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],""]
+8:I[9215,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+9:I[1479,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+2:Ta49,<section class="page-banner pb-photo" style="--banner-img:url('https://images.unsplash.com/photo-1745448797901-2a4c9d9af1c1?w=1600&q=70&auto=format&fit=crop')">
+  <div class="wrap page-banner-inner">
+    <div class="breadcrumb"><a href="/aarti/">Home</a><span>/</span><a href="/aarti/products">Products</a><span>/</span><span>Grade Range</span></div>
+    <h1>Illustrative <em style="font-style:normal;color:var(--hydro-2);">steel grades.</em></h1>
+    <p>Fourteen grade families rolled across our special steel range — matched to spec, not sold off a fixed catalogue.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap">
+    <div class="datatable reveal">
+      <table>
+        <thead>
+          <tr><th>Steel Grade</th><th>Illustrative List</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="lead">Carbon Steel – Low Carbon</td><td>C15, C20, EN3B, EN32B</td></tr>
+          <tr><td class="lead">Carbon Steel – High Carbon</td><td>EN8D, EN9, C40, C45, C60, C67, S53C, AS53C, S48</td></tr>
+          <tr><td class="lead">Spring Steel</td><td>SUP7, SUP9, SUP11A, 55Si7, 60Si7</td></tr>
+          <tr><td class="lead">Bearing Steel – Low Carbon</td><td>20MnCr5, SAE 8620</td></tr>
+          <tr><td class="lead">Bearing Steel</td><td>SAE 52100, SKF Gr2, 100Cr6, 100CrMnSi6</td></tr>
+          <tr><td class="lead">Chrome-Molly Steel</td><td>SAE 4140, SAE 4145, SAE 4135, 42CrMo4</td></tr>
+          <tr><td class="lead">Nickel Chrome Moly Steel</td><td>SAE 4340, EN24, 34CrNiMo6</td></tr>
+          <tr><td class="lead">Case Carburizing Steel</td><td>20MnCr5, 8620, 8619, 8622, 8625, 8627</td></tr>
+          <tr><td class="lead">Free Cutting Steel</td><td>11SMn30, SAE 1215, 12L14</td></tr>
+          <tr><td class="lead">Micro Alloyed Steel</td><td>38MnSiVS6, C70S6</td></tr>
+          <tr><td class="lead">Creep Resistant Steel</td><td>F11, F22, F12, F5, F9, F91, F92</td></tr>
+          <tr><td class="lead">Boron Steel</td><td>15B22, 15B41, 42B17, 94B17H, 20MnCr5(B)</td></tr>
+          <tr><td class="lead">High Nickel Steel</td><td>9NiCrMo4, 18X2H4BA, 20X2H4A, 5HS64, SAE9310</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+<div class="ctaband">
+  <div class="wrap">
+    <h2 class="reveal">Not sure which grade fits your application?</h2>
+    <p class="reveal">Tell us what you're building and we'll match it to a grade and division.</p>
+    <div class="slide-cta reveal">
+      <a href="/aarti/contact" class="btn btn-primary">Talk to our team →</a>
+      <a href="/aarti/applications" class="btn btn-ghost">Browse by industry</a>
+    </div>
+  </div>
+</div>
+0:["SOe9I0gZfUjw7E_Mg7wVl",[[["",{"children":["products",{"children":["grades",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",{"children":["products",{"children":["grades",{"children":["__PAGE__",{},[["$L1",["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","products","children","grades","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","products","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/aarti/_next/static/css/c44ed4c4ab3df6bd.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L5",null,{}],["$","main",null,{"children":["$","$L6",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"foot-grid","children":[["$","div",null,{"className":"foot-brand","children":[["$","$L7",null,{"href":"/","className":"logo","children":["$","img",null,{"src":"/aarti/aarti-logo.png","alt":"Aarti Steel","className":"logo-img"}]}],["$","p",null,{"children":"Carbon and alloy steel manufacturer in Cuttack, Odisha — supplying special steel, ferro alloys and wire rods to India's auto, defence, energy and rail industries since 1979."}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Products"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L7",null,{"href":"/products/special-steel","children":"Special Steel"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/iron-making","children":"Iron Making"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/ferro-alloy","children":"Ferro Alloy"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/round-bars","children":"Round Bars"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/products/wire-rods","children":"Wire Rods"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Company"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L7",null,{"href":"/about","children":"About Us"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/circularity","children":"Circularity"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/infrastructure","children":"Infrastructure"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/csr","children":"EHS & CSR"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/our-clients","children":"Our Clients"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/sell-us","children":"Sell To Us"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/careers","children":"Careers"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:contact@aartisteelsltd.com","children":"contact@aartisteelsltd.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+916717161000","children":"+91-671-7161000"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/company/aartisteelsltd/","children":"LinkedIn"}]}],["$","li",null,{"children":["$","$L7",null,{"href":"/contact","children":"Get In Touch"}]}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","p",null,{"children":"© 2026 Aarti Steel. All rights reserved."}],["$","p",null,{"children":[["$","a",null,{"href":"#","children":"Terms & Conditions"}],"  · "," ",["$","a",null,{"href":"#","children":"Privacy Policy"}]]}]]}]]}]}],["$","$L8",null,{}],["$","$L9",null,{}]]}]}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Grade Range — Aarti Steel"}],["$","meta","3",{"name":"description","content":"Illustrative carbon and alloy steel grades produced by Aarti Steel, Cuttack."}]]
+1:null

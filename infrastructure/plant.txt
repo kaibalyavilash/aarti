@@ -1,0 +1,62 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[882,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+7:I[3603,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+8:I[2972,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],""]
+9:I[9215,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+a:I[1479,["981","static/chunks/981-553ba453662e5243.js","185","static/chunks/app/layout-5ebd2ec6034d465c.js"],"default"]
+2:Ta6b,<section class="section">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Vertically integrated</div>
+      <h2>Plant Facilities</h2>
+      <p>Every stage of the route — iron-making through finished bright bar — sits inside our Cuttack plant.</p>
+    </div>
+    <div class="cert-grid reveal">
+      <div class="cert-card"><h4>DRI (Iron Making)</h4><p>2 × 500 TPD kilns producing sponge iron for our EAF charge.</p></div>
+      <div class="cert-card"><h4>Ferro Chrome</h4><p>Submerged arc furnaces — two rated 9 MVA and one at 18 MVA — for ferro chrome conversion.</p></div>
+      <div class="cert-card"><h4>Steel Melting Shop</h4><p>40 MT Electric Arc Furnace, twin 40 MT Ladle Refining Furnaces and a 40 MT Vacuum Degassing unit.</p></div>
+      <div class="cert-card"><h4>Continuous Caster</h4><p>Bloom caster running 9m, 13m and 25m radius configurations.</p></div>
+      <div class="cert-card"><h4>Rolling Mill</h4><p>Walking-beam reheating furnace, blooming mill and a 13-stand continuous rolling line.</p></div>
+      <div class="cert-card"><h4>Bright Bar Shop</h4><p>Peeling and centreless grinding, producing 20mm–75mm bright rounds.</p></div>
+    </div>
+  </div>
+</section>
+<section class="section tight alt-bg">
+  <div class="wrap">
+    <div class="section-head hydro reveal">
+      <div class="eyebrow">Charge to dispatch</div>
+      <h2>Process Flow</h2>
+      <p>A 70% scrap / 30% DRI charge mix runs through one continuous route, tested at every stage.</p>
+    </div>
+    <div class="pillrow reveal" style="margin-top:0;">
+      <span class="pill">70% Scrap + 30% DRI</span>
+      <span class="pill">Electric Arc Furnace</span>
+      <span class="pill">Ladle Refining Furnace</span>
+      <span class="pill">Vacuum Degassing</span>
+      <span class="pill">Continuous Caster</span>
+      <span class="pill">Reheating Furnace</span>
+      <span class="pill">Descalar</span>
+      <span class="pill">Reversible BD Mill</span>
+      <span class="pill">13-Stand Rolling</span>
+      <span class="pill">Cooling Bed</span>
+      <span class="pill">Peeling</span>
+      <span class="pill">Centreless Grinding</span>
+      <span class="pill">Bright Bar</span>
+      <span class="pill">Quality Assurance</span>
+      <span class="pill">Dispatch</span>
+    </div>
+  </div>
+</section>
+<div class="ctaband">
+  <div class="wrap">
+    <h2 class="reveal">Want the full spec sheet?</h2>
+    <div class="slide-cta reveal">
+      <a href="/aarti/contact" class="btn btn-primary">Talk to our team →</a>
+      <a href="/aarti/infrastructure" class="btn btn-ghost">← Infrastructure overview</a>
+    </div>
+  </div>
+</div>4:["slug","plant","d"]
+0:["SOe9I0gZfUjw7E_Mg7wVl",[[["",{"children":["infrastructure",{"children":[["slug","plant","d"],{"children":["__PAGE__?{\"slug\":\"plant\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["infrastructure",{"children":[["slug","plant","d"],{"children":["__PAGE__",{},[["$L1",[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<section class=\"page-banner pb-photo\" style=\"--banner-img:url('https://images.unsplash.com/photo-1647586028042-1de4d4a935e6?w=1600&q=70&auto=format&fit=crop')\">\n  <div class=\"wrap page-banner-inner\">\n    <div class=\"breadcrumb\"><a href=\"/aarti/\">Home</a><span>/</span><a href=\"/aarti/infrastructure\">Infrastructure</a><span>/</span><span>Plant & Process</span></div>\n    <h1>Plant & Process</h1>\n    <p>From DRI kiln to bright bar — the full steelmaking route under one roof in Cuttack.</p>\n  </div>\n</section>"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","infrastructure","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","infrastructure","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/aarti/_next/static/css/c44ed4c4ab3df6bd.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L6",null,{}],["$","main",null,{"children":["$","$L7",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"foot-grid","children":[["$","div",null,{"className":"foot-brand","children":[["$","$L8",null,{"href":"/","className":"logo","children":["$","img",null,{"src":"/aarti/aarti-logo.png","alt":"Aarti Steel","className":"logo-img"}]}],["$","p",null,{"children":"Carbon and alloy steel manufacturer in Cuttack, Odisha — supplying special steel, ferro alloys and wire rods to India's auto, defence, energy and rail industries since 1979."}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Products"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/products/special-steel","children":"Special Steel"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/iron-making","children":"Iron Making"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/ferro-alloy","children":"Ferro Alloy"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/round-bars","children":"Round Bars"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/products/wire-rods","children":"Wire Rods"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Company"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/about","children":"About Us"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/circularity","children":"Circularity"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/infrastructure","children":"Infrastructure"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/csr","children":"EHS & CSR"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/our-clients","children":"Our Clients"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/sell-us","children":"Sell To Us"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/careers","children":"Careers"}]}]]}]]}],["$","div",null,{"className":"foot-col","children":[["$","h5",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:contact@aartisteelsltd.com","children":"contact@aartisteelsltd.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+916717161000","children":"+91-671-7161000"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.linkedin.com/company/aartisteelsltd/","children":"LinkedIn"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/contact","children":"Get In Touch"}]}]]}]]}]]}],["$","div",null,{"className":"foot-bottom","children":[["$","p",null,{"children":"© 2026 Aarti Steel. All rights reserved."}],["$","p",null,{"children":[["$","a",null,{"href":"#","children":"Terms & Conditions"}],"  · "," ",["$","a",null,{"href":"#","children":"Privacy Policy"}]]}]]}]]}]}],["$","$L9",null,{}],["$","$La",null,{}]]}]}]],null],null],["$Lb",null]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Plant & Process — Aarti Steel"}],["$","meta","3",{"name":"description","content":"Aarti Steel's plant facilities: DRI, Electric Arc Furnace, Ladle Refining, Vacuum Degassing, Continuous Casting, Rolling Mill and Bright Bar Shop."}]]
+1:null
